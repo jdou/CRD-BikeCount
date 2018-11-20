@@ -1,0 +1,126 @@
+body {
+   
+    font-family:"Source Sans Pro","HelveticaNeueW02-55Roma",Arial,sans-serif;
+    font-weight: 400;
+    
+  }
+    
+h1, h2, h3,h4,h5,h6{
+  font-family:"Source Sans Pro","HelveticaNeueW02-55Roma",Arial,sans-serif;
+  font-weight: 400;
+}    
+    #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width:100%;
+    }
+    
+    #locations {
+        position: absolute;
+    }
+   
+
+    .legend {
+    background-color: #fff;
+    border-radius: 3px;
+    top: 30px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.10);
+    font: 15px/20px ;
+    padding: 10px;
+    position: absolute;
+    right: 10px;
+    z-index: 1;
+    text-align: center
+}
+
+.legend h4 {
+    font-size: 20px;
+    margin: 10px 0 10px;
+}
+
+.legend div span {
+    border-radius: 50%;
+    display: inline-block;
+    height: 12px;
+    margin-right: 5px;
+    width: 12px;
+}
+ #symbolLegend{
+  text-align:left;
+  width: 74px;
+  margin:auto;
+ }
+ #buttons-year {
+        width: 200px;
+        margin: 0 auto;
+          overflow:hidden;
+        
+    }
+     #buttons-month {
+        width: 200px;
+        margin: 0 auto;
+          overflow:hidden;
+        
+    }
+    .button {
+        display: inline-block;
+        float:left;
+        position: relative;
+        cursor: pointer;
+        padding: 8px;
+        border-radius: 3px;
+        margin: 5px 0 0 2%; 
+        width: 45%;
+        font-size: 12px;
+        text-align: center;
+        color: #fff;
+        background: #088f98;
+        font-family:"Source Sans Pro","HelveticaNeueW02-55Roma",Arial,sans-serif;
+        font-weight: 700;
+    }
+     .button.selected
+    {
+        background:#ffb125;
+    }
+    .button-popup{
+
+      margin: 5 0 10 0;
+      width:216px;
+    }
+
+    hr{
+        margin:10px 25px 0px 25px;
+
+    }
+img .logo{
+    display:block;
+    margin:auto;
+}
+
+
+.pm {
+  fill:#984ea3;
+}
+.am {
+  fill:#4daf4a;
+}
+.bar:hover {
+  fill: #ffb125;
+}
+
+.axis--x path {
+  display: none;}
+  ul.list-group
+  {
+    
+     margin: 0;
+    padding: 0;
+  }
+
+.mapboxgl-popup-content h4 {
+  line-height: 15px;
+}
+    

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Bicycle Count Table</title>
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+    <link href={{ url_for( 'static', filename='main.css' ) }} rel="stylesheet" media="screen">
+</head>
+
+<body>
+    <div id="container">
+        <div id="title" class="datatable"><img src='https://www.crd.bc.ca/Sitefinity/WebsiteTemplates/CRD/App_Themes/CRD/Images/crd-logo-text.png' class='logo' />
+            <h1>Station {{counts[0].countID}} {{counts[0].onStreet}} {{counts[0].location}} of {{counts[0].xStreet}}</h1>
+        </div>
+
+        <table class="sortable">
+            <tr>
+                <th>Date</th>
+                <th>Start Hour</th>
+                <th>Heading</th>
+                <th>Hourly Total</th>
+            </tr>
+            {% for x in counts %}
+            <tr>
+                <td>{{x["countDate"]}}</td>
+                <td>{{x["countTime"]}}</td>
+                <td>{{x["heading"]}}</td>
+                <td>{{x["totalCount"]}}</td>
+
+            </tr>
+            {% endfor %}
+        </table>
+
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <title>Cyclists at intersections</title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
+    <link href='https://www.mapbox.com/base/latest/base.css' rel='stylesheet' />
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+    <script src="http://d3js.org/d3.v4.min.js"></script>
+    <link href={{ url_for( 'static', filename='map.css' ) }} rel="stylesheet" media="screen">
+</head>
+
+<body>
+    <div id='map'></div>
+    <div id='legend' class='legend'>
+        <img src='https://www.crd.bc.ca/Sitefinity/WebsiteTemplates/CRD/App_Themes/CRD/Images/crd-logo-text.png' class='logo' />
+        <h2>Bicycle Count</h2>
+        <ul id="buttons-year">
+            <li id='button-2011' class='button'>2011</li>
+            <li id='button-2012' class='button'>2012</li>
+            <li id='button-2013' class='button'>2013</li>
+            <li id='button-2014' class='button'>2014</li>
+            <li id='button-2015' class='button'>2015</li>
+            <li id='button-2016' class='button'>2016</li>
+            <li id='button-2017' class='button'>2017</li>
+            <li id='button-2018' class='button selected'>2018</li>
+        </ul>
+        <hr>
+
+        <ul id="buttons-month">
+            <li id='button-5' class='button selected'>May</li>
+            <li id='button-10' class='button'>October</li>
+
+        </ul>
+        <h4>Number of Cyclist <br>at Peak Hour</h4>
+        <div id="symbolLegend">
+            <div><span style='background-color:#7a0177'></span>>250</div>
+            <div><span style='background-color: #ae017e'></span>201-250</div>
+            <div><span style='background-color: #dd3497'></span>151-200</div>
+            <div><span style='background-color: #f768a1'></span>101-150</div>
+            <div><span style='background-color: #fa9fb5'></span>51-100</div>
+            <div><span style='background-color: #fcc5c0'></span>1-50</div>
+        </div>
+        <p><a href="#">Disclaimer</a></p>
+    </div>
+
+    <script src={{ url_for( 'static', filename='map.js' ) }}></script>
+</body>
+
+</html>
