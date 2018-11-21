@@ -1,6 +1,6 @@
 from flask import Flask, render_template,jsonify,json,g
 import sqlite3
-app = Flask(__name__)
+application = Flask(__name__)
 
 DATABASE = 'static/counts.sqlite'
 
@@ -12,22 +12,22 @@ def get_db(row=True):
             db.row_factory=sqlite3.Row
     return db
 
-@app.teardown_appcontext
+@application.teardown_appcontext
 def close_connection(exception):
     db = getattr(g, '_database', None)
     if db is not None:
         db.close()
 
-@app.route("/")
+@application.route("/")
 def index():
     return render_template("index.html")
 
-@app.route("/chart/<int:countID>")
+@application.route("/chart/<int:countID>")
 def chart(countID):
 
     return render_template("chart.html",countID=countID)    
 
-@app.route("/table/<int:countID>")
+@application.route("/table/<int:countID>")
 def table(countID):
     counts=get_db().execute('''SELECT countID,onStreet,location,xStreet,
                             strftime('%Y-%m-%d',countStart) as countDate,
@@ -35,7 +35,7 @@ def table(countID):
                             FROM counts WHERE countID=? ORDER BY countStart''',(countID,)).fetchall()
     return render_template("table.html",counts=counts)         
 
-@app.route("/data/v1.0/<int:countID>", methods=['GET'])
+@application.route("/data/v1.0/<int:countID>", methods=['GET'])
 def data(countID):
     counts=get_db().execute('SELECT * FROM counts WHERE countID=?',(countID,)).fetchall()
     return jsonify([dict(ix) for ix in counts])
