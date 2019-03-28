@@ -14,9 +14,8 @@ cur.execute("""CREATE TABLE counts(
     countDirection TEXT,
     heading TEXT,
     countStart TEXT,
-    totalCount INTEGER,
-    femleCount INTEGER,
-    childCount INTEGER)""")
+    totalCount INTEGER
+    )""")
  
 with open('static/BikeCountsHourly.csv', "rb") as csv_file:
     reader = csv.reader(csv_file)
@@ -31,9 +30,8 @@ with open('static/BikeCountsHourly.csv', "rb") as csv_file:
         unicode(row[4], "utf8"),
         unicode(row[5], "utf8"),
         unicode(row[6], "utf8"),
-        row[7],
-        row[8],
-        row[9]
+        row[7]
+       
         ]
         cur.execute("""INSERT INTO counts (
             countID,
@@ -43,9 +41,8 @@ with open('static/BikeCountsHourly.csv', "rb") as csv_file:
             countDirection,
             heading,
             countStart,
-            totalCount,
-            femleCount,
-            childCount) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?);""", to_db)
+            totalCount
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?);""", to_db)
 cur.execute("CREATE INDEX countID_idx on counts(countID);")
 conn.commit()
 conn.close()

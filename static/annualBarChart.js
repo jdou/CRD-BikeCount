@@ -4,7 +4,7 @@ var boundList = {EB:"East Bound",WB:"West Bound",NB:"North Bound",SB:"South Boun
 var margin = {
     top: 20,
     right: 20,
-    bottom: 0,
+    bottom: 10,
     left: 40
   }
  
@@ -44,7 +44,7 @@ d3.json("/data/v1.0/"+document.querySelector('#title').dataset.countid, function
            });
     //Sort data
     d3.select("#title").append("h1")
-  .html('Station #'+ hourData[0].countID+ ' '+  hourData[0].onStreet +' '+ hourData[0].location + 
+  .html('Station #'+ hourData[0].countID+ ' '+  hourData[0].onStreet +' '+ locList[hourData[0].location] + 
     ' of ' + hourData[0].xStreet );
     hourData=hourData.sort(function (a,b) {return d3.ascending(a.CountDate, b.CountDate) || d3.ascending(a.heading,b.heading) });
     //Nest By heading
@@ -58,53 +58,34 @@ d3.json("/data/v1.0/"+document.querySelector('#title').dataset.countid, function
    var height = 140 - margin.top - margin.bottom;
 
 
-var xHeading=d3.scaleBand()
+//Scales
+   var xHeading=d3.scaleBand()
                .range([0,width])
                .padding(0.15);
-
-var xYear = d3.scaleBand()
-              .range([0,height])
-              .padding(.05);
-    
-
-var xHours = d3.scaleBand();    
-
-// Scales. Note the inverted domain for y-scale: bigger is up!
-var y = d3.scaleLinear();
-    
-
+var yHours = d3.scaleBand();    
+var x = d3.scaleLinear();
+//Axis
 var headingAxis=d3.axisTop(xHeading).tickFormat(function(d) {return boundList[d]});
-
-var xHourAxis = d3.axisLeft(xHours);
-
-var xAxisYear = d3.axisLeft(xYear);
-   
-
-var yAxis = d3.axisTop(y);
+var yHourAxis = d3.axisLeft(yHours);
+var xAxis = d3.axisTop(x);
 
     
     //Heading Range
     xHeading.domain(hourly[0].values.map(function(d) { return d.key; }));
     
-  //Year Range
-    xYear.domain(hourly.map(function(d) { return d.key; }));
-     
-  
+
     //Hour Space within Year Range
-  xHours.domain(["07:00","08:00","15:00","16:00","17:00"])
-         .range([0,height - margin.top - margin.bottom])
+  yHours.domain(["07:00","08:00","15:00","16:00","17:00"])
+         .range([0,height])
          .padding(.2);
 
-  y.domain([0, d3.max(hourData, function(d) { return d.HourTotal; })]).range([0,xHeading.bandwidth()]).nice();
+  x.domain([0, d3.max(hourData, function(d) { return d.HourTotal; })]).range([0,xHeading.bandwidth()]).nice();
 
   // Add an SVG element for each country, with the desired dimensions and margin.
   
   
 
-    //  svg.append("g")
-    // .attr("class", "heading-axis")
-    // .attr("transform", "translate(0," + -20 + ")")
-    // .call(headingAxis);
+
 
   
     var year_g = d3.select("#vis")
@@ -115,30 +96,40 @@ var yAxis = d3.axisTop(y);
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom )
     .attr("transform", "translate(" + margin.left + "," +0 + ")");
-    //.attr("transform", function(d) {return "translate(" + 0 + "," + xYear(d.key) +")";});
   
     var heading_g = year_g.selectAll(".heading")
   .data(function(d) {return d.values;})
   .enter()
   .append("g")
-  .attr("width", width - margin.left - margin.right)
-  .attr("height", height - margin.top - margin.bottom )
+  .attr("width", width)
+  .attr("height", height)
   .attr("class", function(d) {return 'heading heading-' + d.key;})
   .attr("transform", function(d) {return "translate(" + xHeading(d.key)  + ","+ margin.top +")";});
     
 heading_g.append("g")
-
-.call(yAxis);
+.call(xAxis);
   
+heading_g.append("g")
+.attr("class", "x axis")
+.call(yHourAxis);
 
-  
+d3.select("#vis").insert("svg", ":first-child")
+
+.attr("width", width + margin.left + margin.right)
+.attr("height",40)
+.attr("transform", "translate(" + margin.left + "," +0 + ")")
+.attr("width",width)
+.append("g")
+.attr("transform", "translate(0,30)")
+.attr("class", "heading-axis")
+.call(headingAxis);
     
   var year_labels = year_g.selectAll('.year-label')
     .data(function(d) {return [d.key];})
     .enter().append("text")
     .attr("class", function(d) {return 'year-label year-label-' + d;})
-    .attr("x", function() { return((height-margin.top-margin.bottom)/2)*-1})
-    .attr('y',10 )
+    .attr("x", function() { return((height+margin.top+margin.bottom)/2)*-1})
+    .attr('y',20 )
     .attr('text-anchor', 'middle')
     .attr('transform', 'rotate(-90)')
     .text(function(d) {
@@ -147,10 +138,6 @@ heading_g.append("g")
 
   
 
-    year_g.append("g")
-        .attr("class", "x axis")
-        .attr("transform", "translate(" + 60 + ","+ margin.top +")")
-      .call(xHourAxis);
 
 
   // Accessing nested data: https://groups.google.com/forum/#!topic/d3-js/kummm9mS4EA
@@ -162,9 +149,9 @@ heading_g.append("g")
       .append("rect")
       .attr("class", "bar")
       .attr("x", 0)
-      .attr("width", function(d) {return y(d.HourTotal);})
-      .attr("y", function(d) { return xHours(d.Hour);  })
-      .attr("height", xHours.bandwidth())
+      .attr("width", function(d) {return x(d.HourTotal);})
+      .attr("y", function(d) { return yHours(d.Hour);  })
+      .attr("height", yHours.bandwidth())
       .attr("fill", function(d) {return color(parseInt(hourOnlyParse(d.CountDate)))})
       .on('mouseover', tip.show)
       .on('mouseout', tip.hide)
