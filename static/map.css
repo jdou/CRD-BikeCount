@@ -1,12 +1,28 @@
 body {
    
-    font-family:"Source Sans Pro","HelveticaNeueW02-55Roma",Arial,sans-serif;
+  font-family: -apple-system, 
+  BlinkMacSystemFont, 
+  "Segoe UI", 
+  Roboto, 
+  Oxygen-Sans, 
+  Ubuntu, 
+  Cantarell, 
+  "Helvetica Neue", 
+  sans-serif;
     font-weight: 400;
     
   }
     
 h1, h2, h3,h4,h5,h6{
-  font-family:"Source Sans Pro","HelveticaNeueW02-55Roma",Arial,sans-serif;
+  font-family: -apple-system, 
+                BlinkMacSystemFont, 
+                "Segoe UI", 
+                Roboto, 
+                Oxygen-Sans, 
+                Ubuntu, 
+                Cantarell, 
+                "Helvetica Neue", 
+                sans-serif;
   font-weight: 400;
 }    
     #map {
@@ -78,7 +94,15 @@ h1, h2, h3,h4,h5,h6{
         text-align: center;
         color: #fff;
         background: #088f98;
-        font-family:"Source Sans Pro","HelveticaNeueW02-55Roma",Arial,sans-serif;
+        font-family: -apple-system, 
+                BlinkMacSystemFont, 
+                "Segoe UI", 
+                Roboto, 
+                Oxygen-Sans, 
+                Ubuntu, 
+                Cantarell, 
+                "Helvetica Neue", 
+                sans-serif;
         font-weight: 700;
     }
      .button.selected

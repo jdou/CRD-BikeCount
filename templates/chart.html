@@ -10,8 +10,8 @@
   <![endif]-->
     <script src="http://d3js.org/d3.v4.min.js"></script>
     <script src="/static/d3-tip.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
-    <link href={{ url_for( 'static', filename='main.css' ) }} rel="stylesheet" media="screen">
+    
+    <link href={{ url_for( 'static', filename='main.css' ) }} rel="stylesheet" media="screen,print">
 
 </head>
 
@@ -20,14 +20,11 @@
 
         <div id="title" data-countID={{countID}}><img src='https://www.crd.bc.ca/Sitefinity/WebsiteTemplates/CRD/App_Themes/CRD/Images/crd-logo-text.png' class='logo' />
         </div>
-        <div id="legend">
-            <div><span style="background-color:#4daf4a"></span>AM</div>
-            <div><span style="background-color:#984ea3"></span>PM</div>
-        </div>
+        <div id="legend"></div>
 
         <div id="vis"></div>
 
-        <div id="footer">
+        <div id="footer" class="no-print">
             <a class="button" href="/table/{{countID}}">table</a>
         </div>
     </div>

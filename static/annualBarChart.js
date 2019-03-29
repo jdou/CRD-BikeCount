@@ -30,6 +30,37 @@ var tip = d3.tip()
   })
 
 
+// Add Legend
+  var legend = d3.select("#legend")
+.append("svg")
+.attr("width",400)
+.attr("height",20)
+.attr("transform", "translate(" + 50 + "," +0 + ")");
+
+legend.append("rect")
+.attr("width",20)
+.attr("height",20)
+.attr('fill', '#4daf4a')
+
+legend.append("text")
+.attr('x',25)
+.attr('y',15)
+.attr('font-size','15px')
+.text("AM")
+
+legend.append("rect")
+.attr("width",20)
+.attr("height",20)
+.attr("x",60)
+.attr('fill','#984ea3')
+
+legend.append("text")
+.attr('x',85)
+.attr('y',15)
+.attr('font-size','15px')
+.text("PM")
+
+
 
 d3.json("/data/v1.0/"+document.querySelector('#title').dataset.countid, function(error, data) {
  
@@ -110,9 +141,10 @@ heading_g.append("g")
 .call(xAxis);
   
 heading_g.append("g")
-.attr("class", "x axis")
+.attr("class", "y axis")
 .call(yHourAxis);
 
+// Heading label
 d3.select("#vis").insert("svg", ":first-child")
 
 .attr("width", width + margin.left + margin.right)
@@ -123,7 +155,9 @@ d3.select("#vis").insert("svg", ":first-child")
 .attr("transform", "translate(0,30)")
 .attr("class", "heading-axis")
 .call(headingAxis);
-    
+
+
+
   var year_labels = year_g.selectAll('.year-label')
     .data(function(d) {return [d.key];})
     .enter().append("text")
@@ -158,5 +192,5 @@ d3.select("#vis").insert("svg", ":first-child")
 
    year_g.call(tip);
 
-       
+
      });
