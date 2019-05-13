@@ -15,7 +15,7 @@
 <body>
     <div id='map'></div>
     <div id='legend' class='legend'>
-        <img src='https://www.crd.bc.ca/Sitefinity/WebsiteTemplates/CRD/App_Themes/CRD/Images/crd-logo-text.png' class='logo' />
+        <img src={{ url_for( 'static', filename='crd-logo-text.png' ) }} class='logo' />
         <h2>Bicycle Count</h2>
         <ul id="buttons-year">
             <li id='button-2011' class='button'>2011</li>

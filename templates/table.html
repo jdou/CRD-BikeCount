@@ -13,7 +13,7 @@
 
 <body>
     <div id="container">
-        <div id="title" class="datatable"><img src='https://www.crd.bc.ca/Sitefinity/WebsiteTemplates/CRD/App_Themes/CRD/Images/crd-logo-text.png' class='logo' />
+        <div id="title" class="datatable"><img src={{ url_for( 'static', filename='crd-logo-text.png' ) }} class='logo' />
             <h1>Station {{counts[0].countID}} {{counts[0].onStreet}} {{counts[0].location}} of {{counts[0].xStreet}}</h1>
         </div>
 
