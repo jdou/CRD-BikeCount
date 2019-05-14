@@ -40,5 +40,9 @@ def data(countID):
     counts=get_db().execute('SELECT * FROM counts WHERE countID=?',(countID,)).fetchall()
     return jsonify([dict(ix) for ix in counts])
 
+@application.route("/about")
+def about():
+    return render_template("about.html")
+
 if __name__ == "__main__":
     application.run()
