@@ -15,7 +15,7 @@ var colorList = [
     [201, '#ae017e'],
     [251, '#7a0177']
 ];
-var CurrentYear = 2018
+var CurrentYear = 2019
 var CurrentMonth = 5
 document.getElementById('year').textContent= "Year:" +CurrentYear
 

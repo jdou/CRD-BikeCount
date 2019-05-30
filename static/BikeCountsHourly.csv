@@ -22,6 +22,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 35,McKenzie Ave,E,Shelbourne St,EW,EB,2011-10-04 16:00:00.000,17
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,EB,2011-10-04 16:00:00.000,7
 39,Wale Rd,W,Island Hwy,EW,EB,2011-10-04 16:00:00.000,22
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2011-10-04 16:00:00.000,19
 10,Douglas St,S,Bay St,NS,NB,2011-10-04 16:00:00.000,26
 22,Lochside Dr,S,Royal Oak Dr,NS,NB,2011-10-04 16:00:00.000,36
 30,Government St,N,Belleville St,NS,NB,2011-10-04 16:00:00.000,52
@@ -32,6 +33,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 35,McKenzie Ave,E,Shelbourne St,EW,EB,2011-10-04 17:00:00.000,19
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,EB,2011-10-04 17:00:00.000,6
 39,Wale Rd,W,Island Hwy,EW,EB,2011-10-04 17:00:00.000,13
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2011-10-04 17:00:00.000,20
 10,Douglas St,S,Bay St,NS,NB,2011-10-04 17:00:00.000,23
 22,Lochside Dr,S,Royal Oak Dr,NS,NB,2011-10-04 17:00:00.000,46
 30,Government St,N,Belleville St,NS,NB,2011-10-04 17:00:00.000,47
@@ -61,6 +63,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2011-10-06 07:00:00.000,103
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,EB,2011-10-06 07:00:00.000,5
 41,Craigflower Rd,E,Admirals Rd,EW,EB,2011-10-06 07:00:00.000,4
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2011-10-06 07:00:00.000,28
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2011-10-06 07:00:00.000,65
 11,Blanshard St,S,Bay St,NS,NB,2011-10-06 07:00:00.000,8
 30,Government St,N,Belleville St,NS,NB,2011-10-06 07:00:00.000,61
@@ -70,6 +73,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2011-10-06 08:00:00.000,101
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,EB,2011-10-06 08:00:00.000,2
 41,Craigflower Rd,E,Admirals Rd,EW,EB,2011-10-06 08:00:00.000,4
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2011-10-06 08:00:00.000,28
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2011-10-06 08:00:00.000,44
 11,Blanshard St,S,Bay St,NS,NB,2011-10-06 08:00:00.000,11
 30,Government St,N,Belleville St,NS,NB,2011-10-06 08:00:00.000,86
@@ -187,6 +191,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,NB,2012-10-03 17:00:00.000,90
 21,Galloping Goose Regional Trail,N,Sooke Rd,EW,EB,2012-10-04 07:00:00.000,0
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2012-10-04 07:00:00.000,134
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2012-10-04 07:00:00.000,62
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2012-10-04 07:00:00.000,69
 5,Lochside Regional Trail,S,McKenzie Ave,NS,NB,2012-10-04 07:00:00.000,38
 9,Government St,S,Bay St,NS,NB,2012-10-04 07:00:00.000,17
@@ -196,6 +201,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,NB,2012-10-04 07:00:00.000,8
 21,Galloping Goose Regional Trail,N,Sooke Rd,EW,EB,2012-10-04 08:00:00.000,0
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2012-10-04 08:00:00.000,92
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2012-10-04 08:00:00.000,29
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2012-10-04 08:00:00.000,85
 5,Lochside Regional Trail,S,McKenzie Ave,NS,NB,2012-10-04 08:00:00.000,46
 9,Government St,S,Bay St,NS,NB,2012-10-04 08:00:00.000,24
@@ -207,6 +213,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2012-10-04 15:00:00.000,62
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,EB,2012-10-04 15:00:00.000,10
 39,Wale Rd,W,Island Hwy,EW,EB,2012-10-04 15:00:00.000,3
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2012-10-04 15:00:00.000,15
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2012-10-04 15:00:00.000,100
 5,Lochside Regional Trail,S,McKenzie Ave,NS,NB,2012-10-04 15:00:00.000,60
 25,West Saanich Rd,N,Interurban Rd,NS,NB,2012-10-04 15:00:00.000,6
@@ -216,6 +223,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2012-10-04 16:00:00.000,76
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,EB,2012-10-04 16:00:00.000,27
 39,Wale Rd,W,Island Hwy,EW,EB,2012-10-04 16:00:00.000,20
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2012-10-04 16:00:00.000,27
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2012-10-04 16:00:00.000,246
 5,Lochside Regional Trail,S,McKenzie Ave,NS,NB,2012-10-04 16:00:00.000,93
 25,West Saanich Rd,N,Interurban Rd,NS,NB,2012-10-04 16:00:00.000,7
@@ -225,6 +233,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2012-10-04 17:00:00.000,61
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,EB,2012-10-04 17:00:00.000,13
 39,Wale Rd,W,Island Hwy,EW,EB,2012-10-04 17:00:00.000,14
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2012-10-04 17:00:00.000,22
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2012-10-04 17:00:00.000,249
 5,Lochside Regional Trail,S,McKenzie Ave,NS,NB,2012-10-04 17:00:00.000,132
 25,West Saanich Rd,N,Interurban Rd,NS,NB,2012-10-04 17:00:00.000,16
@@ -532,6 +541,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 18,Oak Bay Ave,E,Foul Bay Rd,EW,EB,2014-10-07 07:00:00.000,8
 28,Pandora St,E,Blanshard St,EW,EB,2014-10-07 07:00:00.000,0
 29,Johnson St,E,Blanshard St,EW,EB,2014-10-07 07:00:00.000,47
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2014-10-07 07:00:00.000,71
 9,Government St,S,Bay St,NS,NB,2014-10-07 07:00:00.000,12
 10,Douglas St,S,Bay St,NS,NB,2014-10-07 07:00:00.000,8
 11,Blanshard St,S,Bay St,NS,NB,2014-10-07 07:00:00.000,14
@@ -541,6 +551,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 18,Oak Bay Ave,E,Foul Bay Rd,EW,EB,2014-10-07 08:00:00.000,24
 28,Pandora St,E,Blanshard St,EW,EB,2014-10-07 08:00:00.000,0
 29,Johnson St,E,Blanshard St,EW,EB,2014-10-07 08:00:00.000,54
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2014-10-07 08:00:00.000,32
 9,Government St,S,Bay St,NS,NB,2014-10-07 08:00:00.000,14
 10,Douglas St,S,Bay St,NS,NB,2014-10-07 08:00:00.000,7
 11,Blanshard St,S,Bay St,NS,NB,2014-10-07 08:00:00.000,16
@@ -780,12 +791,15 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 17,McKenzie Ave,E,Gordon Head Rd,EW,EB,2015-10-06 15:00:00.000,19
 39,Wale Rd,W,Island Hwy,EW,EB,2015-10-06 15:00:00.000,10
 53,Fairfield Rd,E,Cook St,EW,EB,2015-10-06 15:00:00.000,16
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2015-10-06 15:00:00.000,20
 17,McKenzie Ave,E,Gordon Head Rd,EW,EB,2015-10-06 16:00:00.000,21
 39,Wale Rd,W,Island Hwy,EW,EB,2015-10-06 16:00:00.000,28
 53,Fairfield Rd,E,Cook St,EW,EB,2015-10-06 16:00:00.000,37
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2015-10-06 16:00:00.000,17
 17,McKenzie Ave,E,Gordon Head Rd,EW,EB,2015-10-06 17:00:00.000,28
 39,Wale Rd,W,Island Hwy,EW,EB,2015-10-06 17:00:00.000,20
 53,Fairfield Rd,E,Cook St,EW,EB,2015-10-06 17:00:00.000,28
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2015-10-06 17:00:00.000,27
 19,Dallas Rd,E,Cook St,EW,EB,2015-10-07 07:00:00.000,5
 1,Wharf St,N,Fort St,NS,NB,2015-10-07 07:00:00.000,59
 49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,NB,2015-10-07 07:00:00.000,9
@@ -896,6 +910,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 17,McKenzie Ave,E,Gordon Head Rd,EW,EB,2016-10-18 07:00:00.000,36
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2016-10-18 07:00:00.000,147
 43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,EB,2016-10-18 07:00:00.000,127
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2016-10-18 07:00:00.000,75
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2016-10-18 07:00:00.000,56
 5,Lochside Regional Trail,S,McKenzie Ave,NS,NB,2016-10-18 07:00:00.000,50
 16,Henderson Rd,S,Cedar Hill Cross Rd,NS,NB,2016-10-18 07:00:00.000,33
@@ -905,6 +920,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 17,McKenzie Ave,E,Gordon Head Rd,EW,EB,2016-10-18 08:00:00.000,100
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2016-10-18 08:00:00.000,108
 43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,EB,2016-10-18 08:00:00.000,36
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2016-10-18 08:00:00.000,31
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2016-10-18 08:00:00.000,52
 5,Lochside Regional Trail,S,McKenzie Ave,NS,NB,2016-10-18 08:00:00.000,46
 16,Henderson Rd,S,Cedar Hill Cross Rd,NS,NB,2016-10-18 08:00:00.000,161
@@ -973,16 +989,19 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 2,Johnson St Bridge,W,Wharf St,EW,EB,2016-10-20 15:00:00.000,58
 35,McKenzie Ave,E,Shelbourne St,EW,EB,2016-10-20 15:00:00.000,13
 46,Sooke Rd,W,Sooke River Rd,EW,EB,2016-10-20 15:00:00.000,0
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2016-10-20 15:00:00.000,9
 34,Shelbourne St,S,McKenzie Ave,NS,NB,2016-10-20 15:00:00.000,9
 54,Shelbourne St,N,Hillside Ave,NS,NB,2016-10-20 15:00:00.000,13
 2,Johnson St Bridge,W,Wharf St,EW,EB,2016-10-20 16:00:00.000,92
 35,McKenzie Ave,E,Shelbourne St,EW,EB,2016-10-20 16:00:00.000,19
 46,Sooke Rd,W,Sooke River Rd,EW,EB,2016-10-20 16:00:00.000,0
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2016-10-20 16:00:00.000,14
 34,Shelbourne St,S,McKenzie Ave,NS,NB,2016-10-20 16:00:00.000,12
 54,Shelbourne St,N,Hillside Ave,NS,NB,2016-10-20 16:00:00.000,12
 2,Johnson St Bridge,W,Wharf St,EW,EB,2016-10-20 17:00:00.000,126
 35,McKenzie Ave,E,Shelbourne St,EW,EB,2016-10-20 17:00:00.000,14
 46,Sooke Rd,W,Sooke River Rd,EW,EB,2016-10-20 17:00:00.000,0
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2016-10-20 17:00:00.000,8
 34,Shelbourne St,S,McKenzie Ave,NS,NB,2016-10-20 17:00:00.000,8
 54,Shelbourne St,N,Hillside Ave,NS,NB,2016-10-20 17:00:00.000,12
 2,Johnson St Bridge,W,Wharf St,EW,EB,2017-05-16 07:00:00.000,262
@@ -1808,6 +1827,250 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 36,Shelbourne St,N,Pear St,NS,NB,2018-10-18 17:00:00.000,18
 55,Vancouver St,S,Caledonia Ave,NS,NB,2018-10-18 17:00:00.000,100
 56,Cook St,S,Caledonia Ave,NS,NB,2018-10-18 17:00:00.000,40
+12,Haultain St,W,Forbes St,EW,EB,2019-05-07 07:00:00.000,33
+15,Humboldt St,E,Blanshard St,EW,EB,2019-05-07 07:00:00.000,2
+18,Oak Bay Ave,E,Foul Bay Rd,EW,EB,2019-05-07 07:00:00.000,9
+35,McKenzie Ave,E,Shelbourne St,EW,EB,2019-05-07 07:00:00.000,37
+38,Goldstream Ave,W,Veterans Memorial Pky,EW,EB,2019-05-07 07:00:00.000,27
+39,Wale Rd,W,Island Hwy,EW,EB,2019-05-07 07:00:00.000,26
+40,Esquimalt Rd,W,Lampson St,EW,EB,2019-05-07 07:00:00.000,29
+50,Fort St,W,Vancouver St,EW,EB,2019-05-07 07:00:00.000,29
+53,Fairfield Rd,E,Cook St,EW,EB,2019-05-07 07:00:00.000,5
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2019-05-07 07:00:00.000,93
+4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2019-05-07 07:00:00.000,108
+5,Lochside Regional Trail,S,McKenzie Ave,NS,NB,2019-05-07 07:00:00.000,70
+8,Galloping Goose Regional Trail,S,Selkirk Trestle,NS,NB,2019-05-07 07:00:00.000,154
+14,Vancouver St,S,Fort St,NS,NB,2019-05-07 07:00:00.000,47
+33,Admirals Rd,S,Colville Rd,NS,NB,2019-05-07 07:00:00.000,22
+34,Shelbourne St,S,McKenzie Ave,NS,NB,2019-05-07 07:00:00.000,5
+44,West Saanich Rd,N,Wallace Dr,NS,NB,2019-05-07 07:00:00.000,0
+47,Glanford Ave,N,McKenzie Ave,NS,NB,2019-05-07 07:00:00.000,4
+55,Vancouver St,S,Caledonia Ave,NS,NB,2019-05-07 07:00:00.000,13
+12,Haultain St,W,Forbes St,EW,EB,2019-05-07 08:00:00.000,60
+15,Humboldt St,E,Blanshard St,EW,EB,2019-05-07 08:00:00.000,1
+18,Oak Bay Ave,E,Foul Bay Rd,EW,EB,2019-05-07 08:00:00.000,16
+35,McKenzie Ave,E,Shelbourne St,EW,EB,2019-05-07 08:00:00.000,46
+38,Goldstream Ave,W,Veterans Memorial Pky,EW,EB,2019-05-07 08:00:00.000,9
+39,Wale Rd,W,Island Hwy,EW,EB,2019-05-07 08:00:00.000,19
+40,Esquimalt Rd,W,Lampson St,EW,EB,2019-05-07 08:00:00.000,32
+50,Fort St,W,Vancouver St,EW,EB,2019-05-07 08:00:00.000,36
+53,Fairfield Rd,E,Cook St,EW,EB,2019-05-07 08:00:00.000,10
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2019-05-07 08:00:00.000,76
+4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2019-05-07 08:00:00.000,98
+5,Lochside Regional Trail,S,McKenzie Ave,NS,NB,2019-05-07 08:00:00.000,51
+8,Galloping Goose Regional Trail,S,Selkirk Trestle,NS,NB,2019-05-07 08:00:00.000,145
+14,Vancouver St,S,Fort St,NS,NB,2019-05-07 08:00:00.000,73
+33,Admirals Rd,S,Colville Rd,NS,NB,2019-05-07 08:00:00.000,24
+34,Shelbourne St,S,McKenzie Ave,NS,NB,2019-05-07 08:00:00.000,11
+44,West Saanich Rd,N,Wallace Dr,NS,NB,2019-05-07 08:00:00.000,5
+47,Glanford Ave,N,McKenzie Ave,NS,NB,2019-05-07 08:00:00.000,4
+55,Vancouver St,S,Caledonia Ave,NS,NB,2019-05-07 08:00:00.000,25
+12,Haultain St,W,Forbes St,EW,EB,2019-05-07 15:00:00.000,37
+18,Oak Bay Ave,E,Foul Bay Rd,EW,EB,2019-05-07 15:00:00.000,37
+41,Craigflower Rd,E,Admirals Rd,EW,EB,2019-05-07 15:00:00.000,4
+42,Sooke Rd,N,Otter Point Rd,EW,EB,2019-05-07 15:00:00.000,5
+50,Fort St,W,Vancouver St,EW,EB,2019-05-07 15:00:00.000,56
+53,Fairfield Rd,E,Cook St,EW,EB,2019-05-07 15:00:00.000,9
+4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2019-05-07 15:00:00.000,172
+5,Lochside Regional Trail,S,McKenzie Ave,NS,NB,2019-05-07 15:00:00.000,84
+10,Douglas St,S,Bay St,NS,NB,2019-05-07 15:00:00.000,18
+14,Vancouver St,S,Fort St,NS,NB,2019-05-07 15:00:00.000,27
+16,Henderson Rd,S,Cedar Hill Cross Rd,NS,NB,2019-05-07 15:00:00.000,23
+22,Lochside Dr,S,Royal Oak Dr,NS,NB,2019-05-07 15:00:00.000,43
+33,Admirals Rd,S,Colville Rd,NS,NB,2019-05-07 15:00:00.000,43
+34,Shelbourne St,S,McKenzie Ave,NS,NB,2019-05-07 15:00:00.000,10
+44,West Saanich Rd,N,Wallace Dr,NS,NB,2019-05-07 15:00:00.000,4
+48,Lochside Regional Trail ,S,Quadra St,NS,NB,2019-05-07 15:00:00.000,93
+55,Vancouver St,S,Caledonia Ave,NS,NB,2019-05-07 15:00:00.000,35
+12,Haultain St,W,Forbes St,EW,EB,2019-05-07 16:00:00.000,51
+18,Oak Bay Ave,E,Foul Bay Rd,EW,EB,2019-05-07 16:00:00.000,34
+41,Craigflower Rd,E,Admirals Rd,EW,EB,2019-05-07 16:00:00.000,8
+42,Sooke Rd,N,Otter Point Rd,EW,EB,2019-05-07 16:00:00.000,6
+50,Fort St,W,Vancouver St,EW,EB,2019-05-07 16:00:00.000,125
+53,Fairfield Rd,E,Cook St,EW,EB,2019-05-07 16:00:00.000,27
+4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2019-05-07 16:00:00.000,390
+5,Lochside Regional Trail,S,McKenzie Ave,NS,NB,2019-05-07 16:00:00.000,145
+10,Douglas St,S,Bay St,NS,NB,2019-05-07 16:00:00.000,20
+14,Vancouver St,S,Fort St,NS,NB,2019-05-07 16:00:00.000,54
+16,Henderson Rd,S,Cedar Hill Cross Rd,NS,NB,2019-05-07 16:00:00.000,33
+22,Lochside Dr,S,Royal Oak Dr,NS,NB,2019-05-07 16:00:00.000,70
+33,Admirals Rd,S,Colville Rd,NS,NB,2019-05-07 16:00:00.000,29
+34,Shelbourne St,S,McKenzie Ave,NS,NB,2019-05-07 16:00:00.000,13
+44,West Saanich Rd,N,Wallace Dr,NS,NB,2019-05-07 16:00:00.000,1
+48,Lochside Regional Trail ,S,Quadra St,NS,NB,2019-05-07 16:00:00.000,164
+55,Vancouver St,S,Caledonia Ave,NS,NB,2019-05-07 16:00:00.000,90
+12,Haultain St,W,Forbes St,EW,EB,2019-05-07 17:00:00.000,36
+18,Oak Bay Ave,E,Foul Bay Rd,EW,EB,2019-05-07 17:00:00.000,55
+41,Craigflower Rd,E,Admirals Rd,EW,EB,2019-05-07 17:00:00.000,7
+42,Sooke Rd,N,Otter Point Rd,EW,EB,2019-05-07 17:00:00.000,2
+50,Fort St,W,Vancouver St,EW,EB,2019-05-07 17:00:00.000,109
+53,Fairfield Rd,E,Cook St,EW,EB,2019-05-07 17:00:00.000,24
+4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,NB,2019-05-07 17:00:00.000,341
+5,Lochside Regional Trail,S,McKenzie Ave,NS,NB,2019-05-07 17:00:00.000,148
+10,Douglas St,S,Bay St,NS,NB,2019-05-07 17:00:00.000,24
+14,Vancouver St,S,Fort St,NS,NB,2019-05-07 17:00:00.000,64
+16,Henderson Rd,S,Cedar Hill Cross Rd,NS,NB,2019-05-07 17:00:00.000,45
+22,Lochside Dr,S,Royal Oak Dr,NS,NB,2019-05-07 17:00:00.000,73
+33,Admirals Rd,S,Colville Rd,NS,NB,2019-05-07 17:00:00.000,20
+34,Shelbourne St,S,McKenzie Ave,NS,NB,2019-05-07 17:00:00.000,15
+44,West Saanich Rd,N,Wallace Dr,NS,NB,2019-05-07 17:00:00.000,8
+48,Lochside Regional Trail ,S,Quadra St,NS,NB,2019-05-07 17:00:00.000,171
+55,Vancouver St,S,Caledonia Ave,NS,NB,2019-05-07 17:00:00.000,88
+17,McKenzie Ave,E,Gordon Head Rd,EW,EB,2019-05-08 07:00:00.000,48
+19,Dallas Rd,E,Cook St,EW,EB,2019-05-08 07:00:00.000,13
+20,Fort St,N,Oak Bay Ave,EW,EB,2019-05-08 07:00:00.000,31
+32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2019-05-08 07:00:00.000,143
+37,Gorge Rd,W,Jutland Rd,EW,EB,2019-05-08 07:00:00.000,48
+43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,EB,2019-05-08 07:00:00.000,131
+1,Wharf St,N,Fort St,NS,NB,2019-05-08 07:00:00.000,89
+3,E&N Rail Trail,N,Esquimalt Rd,NS,NB,2019-05-08 07:00:00.000,37
+9,Government St,S,Bay St,NS,NB,2019-05-08 07:00:00.000,12
+16,Henderson Rd,S,Cedar Hill Cross Rd,NS,NB,2019-05-08 07:00:00.000,47
+22,Lochside Dr,S,Royal Oak Dr,NS,NB,2019-05-08 07:00:00.000,15
+23,Fifth St,S,Ocean Ave,NS,NB,2019-05-08 07:00:00.000,11
+30,Government St,N,Belleville St,NS,NB,2019-05-08 07:00:00.000,97
+36,Shelbourne St,N,Pear St,NS,NB,2019-05-08 07:00:00.000,7
+45,University Dr,S,Ring Rd,NS,NB,2019-05-08 07:00:00.000,131
+17,McKenzie Ave,E,Gordon Head Rd,EW,EB,2019-05-08 08:00:00.000,65
+19,Dallas Rd,E,Cook St,EW,EB,2019-05-08 08:00:00.000,9
+20,Fort St,N,Oak Bay Ave,EW,EB,2019-05-08 08:00:00.000,36
+32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2019-05-08 08:00:00.000,149
+37,Gorge Rd,W,Jutland Rd,EW,EB,2019-05-08 08:00:00.000,72
+43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,EB,2019-05-08 08:00:00.000,78
+1,Wharf St,N,Fort St,NS,NB,2019-05-08 08:00:00.000,122
+3,E&N Rail Trail,N,Esquimalt Rd,NS,NB,2019-05-08 08:00:00.000,30
+9,Government St,S,Bay St,NS,NB,2019-05-08 08:00:00.000,16
+16,Henderson Rd,S,Cedar Hill Cross Rd,NS,NB,2019-05-08 08:00:00.000,123
+22,Lochside Dr,S,Royal Oak Dr,NS,NB,2019-05-08 08:00:00.000,38
+23,Fifth St,S,Ocean Ave,NS,NB,2019-05-08 08:00:00.000,9
+30,Government St,N,Belleville St,NS,NB,2019-05-08 08:00:00.000,102
+36,Shelbourne St,N,Pear St,NS,NB,2019-05-08 08:00:00.000,11
+45,University Dr,S,Ring Rd,NS,NB,2019-05-08 08:00:00.000,49
+20,Fort St,N,Oak Bay Ave,EW,EB,2019-05-08 15:00:00.000,30
+32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2019-05-08 15:00:00.000,76
+35,McKenzie Ave,E,Shelbourne St,EW,EB,2019-05-08 15:00:00.000,20
+37,Gorge Rd,W,Jutland Rd,EW,EB,2019-05-08 15:00:00.000,9
+39,Wale Rd,W,Island Hwy,EW,EB,2019-05-08 15:00:00.000,26
+40,Esquimalt Rd,W,Lampson St,EW,EB,2019-05-08 15:00:00.000,33
+43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,EB,2019-05-08 15:00:00.000,36
+46,Sooke Rd,W,Sooke River Rd,EW,EB,2019-05-08 15:00:00.000,0
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2019-05-08 15:00:00.000,36
+1,Wharf St,N,Fort St,NS,NB,2019-05-08 15:00:00.000,93
+3,E&N Rail Trail,N,Esquimalt Rd,NS,NB,2019-05-08 15:00:00.000,35
+6,Interuban Rd,N,Burnside Rd W,NS,NB,2019-05-08 15:00:00.000,19
+8,Galloping Goose Regional Trail,S,Selkirk Trestle,NS,NB,2019-05-08 15:00:00.000,218
+13,Cook St,S,Fort St,NS,NB,2019-05-08 15:00:00.000,29
+23,Fifth St,S,Ocean Ave,NS,NB,2019-05-08 15:00:00.000,27
+30,Government St,N,Belleville St,NS,NB,2019-05-08 15:00:00.000,72
+36,Shelbourne St,N,Pear St,NS,NB,2019-05-08 15:00:00.000,11
+45,University Dr,S,Ring Rd,NS,NB,2019-05-08 15:00:00.000,26
+49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,NB,2019-05-08 15:00:00.000,58
+20,Fort St,N,Oak Bay Ave,EW,EB,2019-05-08 16:00:00.000,52
+32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2019-05-08 16:00:00.000,99
+35,McKenzie Ave,E,Shelbourne St,EW,EB,2019-05-08 16:00:00.000,22
+37,Gorge Rd,W,Jutland Rd,EW,EB,2019-05-08 16:00:00.000,18
+39,Wale Rd,W,Island Hwy,EW,EB,2019-05-08 16:00:00.000,32
+40,Esquimalt Rd,W,Lampson St,EW,EB,2019-05-08 16:00:00.000,52
+43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,EB,2019-05-08 16:00:00.000,64
+46,Sooke Rd,W,Sooke River Rd,EW,EB,2019-05-08 16:00:00.000,0
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2019-05-08 16:00:00.000,55
+1,Wharf St,N,Fort St,NS,NB,2019-05-08 16:00:00.000,245
+3,E&N Rail Trail,N,Esquimalt Rd,NS,NB,2019-05-08 16:00:00.000,90
+6,Interuban Rd,N,Burnside Rd W,NS,NB,2019-05-08 16:00:00.000,42
+8,Galloping Goose Regional Trail,S,Selkirk Trestle,NS,NB,2019-05-08 16:00:00.000,429
+13,Cook St,S,Fort St,NS,NB,2019-05-08 16:00:00.000,29
+23,Fifth St,S,Ocean Ave,NS,NB,2019-05-08 16:00:00.000,19
+30,Government St,N,Belleville St,NS,NB,2019-05-08 16:00:00.000,145
+36,Shelbourne St,N,Pear St,NS,NB,2019-05-08 16:00:00.000,16
+45,University Dr,S,Ring Rd,NS,NB,2019-05-08 16:00:00.000,40
+49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,NB,2019-05-08 16:00:00.000,81
+20,Fort St,N,Oak Bay Ave,EW,EB,2019-05-08 17:00:00.000,60
+32,Galloping Goose Regional Trail,N,Crease Rd,EW,EB,2019-05-08 17:00:00.000,97
+35,McKenzie Ave,E,Shelbourne St,EW,EB,2019-05-08 17:00:00.000,25
+37,Gorge Rd,W,Jutland Rd,EW,EB,2019-05-08 17:00:00.000,15
+39,Wale Rd,W,Island Hwy,EW,EB,2019-05-08 17:00:00.000,36
+40,Esquimalt Rd,W,Lampson St,EW,EB,2019-05-08 17:00:00.000,31
+43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,EB,2019-05-08 17:00:00.000,39
+46,Sooke Rd,W,Sooke River Rd,EW,EB,2019-05-08 17:00:00.000,1
+58,Galloping Goose ,E,Burnside Rd W,EW,EB,2019-05-08 17:00:00.000,50
+1,Wharf St,N,Fort St,NS,NB,2019-05-08 17:00:00.000,169
+3,E&N Rail Trail,N,Esquimalt Rd,NS,NB,2019-05-08 17:00:00.000,76
+6,Interuban Rd,N,Burnside Rd W,NS,NB,2019-05-08 17:00:00.000,31
+8,Galloping Goose Regional Trail,S,Selkirk Trestle,NS,NB,2019-05-08 17:00:00.000,316
+13,Cook St,S,Fort St,NS,NB,2019-05-08 17:00:00.000,31
+23,Fifth St,S,Ocean Ave,NS,NB,2019-05-08 17:00:00.000,14
+30,Government St,N,Belleville St,NS,NB,2019-05-08 17:00:00.000,111
+36,Shelbourne St,N,Pear St,NS,NB,2019-05-08 17:00:00.000,7
+45,University Dr,S,Ring Rd,NS,NB,2019-05-08 17:00:00.000,18
+49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,NB,2019-05-08 17:00:00.000,104
+2,Johnson St Bridge,W,Wharf St,EW,EB,2019-05-09 07:00:00.000,387
+27,Richardson St,E,Cook St,EW,EB,2019-05-09 07:00:00.000,5
+28,Pandora St,E,Blanshard St,EW,EB,2019-05-09 07:00:00.000,46
+41,Craigflower Rd,E,Admirals Rd,EW,EB,2019-05-09 07:00:00.000,18
+51,Lansdowne Rd,W,Richmond Rd,EW,EB,2019-05-09 07:00:00.000,30
+52,Pandora Ave,E,Cook St,EW,EB,2019-05-09 07:00:00.000,15
+6,Interuban Rd,N,Burnside Rd W,NS,NB,2019-05-09 07:00:00.000,37
+7,E&N Rail Trail,S,Portage Park Trail,NS,NB,2019-05-09 07:00:00.000,33
+10,Douglas St,S,Bay St,NS,NB,2019-05-09 07:00:00.000,10
+11,Blanshard St,S,Bay St,NS,NB,2019-05-09 07:00:00.000,7
+13,Cook St,S,Fort St,NS,NB,2019-05-09 07:00:00.000,17
+24,Lochside Regional Trail,S,Ardwell Ave,NS,NB,2019-05-09 07:00:00.000,7
+31,Lochside Regional Trail,N,Switch Bridge,NS,NB,2019-05-09 07:00:00.000,70
+48,Lochside Regional Trail ,S,Quadra St,NS,NB,2019-05-09 07:00:00.000,63
+49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,NB,2019-05-09 07:00:00.000,30
+54,Shelbourne St,N,Hillside Ave,NS,NB,2019-05-09 07:00:00.000,19
+2,Johnson St Bridge,W,Wharf St,EW,EB,2019-05-09 08:00:00.000,516
+27,Richardson St,E,Cook St,EW,EB,2019-05-09 08:00:00.000,9
+28,Pandora St,E,Blanshard St,EW,EB,2019-05-09 08:00:00.000,72
+41,Craigflower Rd,E,Admirals Rd,EW,EB,2019-05-09 08:00:00.000,23
+51,Lansdowne Rd,W,Richmond Rd,EW,EB,2019-05-09 08:00:00.000,38
+52,Pandora Ave,E,Cook St,EW,EB,2019-05-09 08:00:00.000,28
+6,Interuban Rd,N,Burnside Rd W,NS,NB,2019-05-09 08:00:00.000,22
+7,E&N Rail Trail,S,Portage Park Trail,NS,NB,2019-05-09 08:00:00.000,24
+10,Douglas St,S,Bay St,NS,NB,2019-05-09 08:00:00.000,10
+11,Blanshard St,S,Bay St,NS,NB,2019-05-09 08:00:00.000,11
+13,Cook St,S,Fort St,NS,NB,2019-05-09 08:00:00.000,21
+24,Lochside Regional Trail,S,Ardwell Ave,NS,NB,2019-05-09 08:00:00.000,26
+31,Lochside Regional Trail,N,Switch Bridge,NS,NB,2019-05-09 08:00:00.000,96
+48,Lochside Regional Trail ,S,Quadra St,NS,NB,2019-05-09 08:00:00.000,78
+49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,NB,2019-05-09 08:00:00.000,30
+54,Shelbourne St,N,Hillside Ave,NS,NB,2019-05-09 08:00:00.000,17
+2,Johnson St Bridge,W,Wharf St,EW,EB,2019-05-09 15:00:00.000,156
+21,Galloping Goose Regional Trail,N,Sooke Rd,EW,EB,2019-05-09 15:00:00.000,2
+27,Richardson St,E,Cook St,EW,EB,2019-05-09 15:00:00.000,27
+28,Pandora St,E,Blanshard St,EW,EB,2019-05-09 15:00:00.000,84
+38,Goldstream Ave,W,Veterans Memorial Pky,EW,EB,2019-05-09 15:00:00.000,11
+51,Lansdowne Rd,W,Richmond Rd,EW,EB,2019-05-09 15:00:00.000,17
+52,Pandora Ave,E,Cook St,EW,EB,2019-05-09 15:00:00.000,5
+57,Cadboro Bay Rd,E,Foul Bay Rd,EW,EB,2019-05-09 15:00:00.000,29
+11,Blanshard St,S,Bay St,NS,NB,2019-05-09 15:00:00.000,23
+24,Lochside Regional Trail,S,Ardwell Ave,NS,NB,2019-05-09 15:00:00.000,21
+31,Lochside Regional Trail,N,Switch Bridge,NS,NB,2019-05-09 15:00:00.000,102
+47,Glanford Ave,N,McKenzie Ave,NS,NB,2019-05-09 15:00:00.000,5
+2,Johnson St Bridge,W,Wharf St,EW,EB,2019-05-09 16:00:00.000,255
+21,Galloping Goose Regional Trail,N,Sooke Rd,EW,EB,2019-05-09 16:00:00.000,0
+27,Richardson St,E,Cook St,EW,EB,2019-05-09 16:00:00.000,46
+28,Pandora St,E,Blanshard St,EW,EB,2019-05-09 16:00:00.000,161
+38,Goldstream Ave,W,Veterans Memorial Pky,EW,EB,2019-05-09 16:00:00.000,9
+51,Lansdowne Rd,W,Richmond Rd,EW,EB,2019-05-09 16:00:00.000,10
+52,Pandora Ave,E,Cook St,EW,EB,2019-05-09 16:00:00.000,12
+57,Cadboro Bay Rd,E,Foul Bay Rd,EW,EB,2019-05-09 16:00:00.000,36
+11,Blanshard St,S,Bay St,NS,NB,2019-05-09 16:00:00.000,34
+24,Lochside Regional Trail,S,Ardwell Ave,NS,NB,2019-05-09 16:00:00.000,6
+31,Lochside Regional Trail,N,Switch Bridge,NS,NB,2019-05-09 16:00:00.000,223
+47,Glanford Ave,N,McKenzie Ave,NS,NB,2019-05-09 16:00:00.000,17
+2,Johnson St Bridge,W,Wharf St,EW,EB,2019-05-09 17:00:00.000,234
+21,Galloping Goose Regional Trail,N,Sooke Rd,EW,EB,2019-05-09 17:00:00.000,4
+27,Richardson St,E,Cook St,EW,EB,2019-05-09 17:00:00.000,58
+28,Pandora St,E,Blanshard St,EW,EB,2019-05-09 17:00:00.000,134
+38,Goldstream Ave,W,Veterans Memorial Pky,EW,EB,2019-05-09 17:00:00.000,10
+51,Lansdowne Rd,W,Richmond Rd,EW,EB,2019-05-09 17:00:00.000,26
+52,Pandora Ave,E,Cook St,EW,EB,2019-05-09 17:00:00.000,12
+57,Cadboro Bay Rd,E,Foul Bay Rd,EW,EB,2019-05-09 17:00:00.000,43
+11,Blanshard St,S,Bay St,NS,NB,2019-05-09 17:00:00.000,33
+24,Lochside Regional Trail,S,Ardwell Ave,NS,NB,2019-05-09 17:00:00.000,10
+31,Lochside Regional Trail,N,Switch Bridge,NS,NB,2019-05-09 17:00:00.000,218
+47,Glanford Ave,N,McKenzie Ave,NS,NB,2019-05-09 17:00:00.000,6
 35,McKenzie Ave,E,Shelbourne St,EW,WB,2011-10-04 07:00:00.000,16
 39,Wale Rd,W,Island Hwy,EW,WB,2011-10-04 07:00:00.000,2
 5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2011-10-04 07:00:00.000,96
@@ -1831,6 +2094,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 35,McKenzie Ave,E,Shelbourne St,EW,WB,2011-10-04 16:00:00.000,32
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,WB,2011-10-04 16:00:00.000,12
 39,Wale Rd,W,Island Hwy,EW,WB,2011-10-04 16:00:00.000,9
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2011-10-04 16:00:00.000,38
 10,Douglas St,S,Bay St,NS,SB,2011-10-04 16:00:00.000,16
 22,Lochside Dr,S,Royal Oak Dr,NS,SB,2011-10-04 16:00:00.000,22
 30,Government St,N,Belleville St,NS,SB,2011-10-04 16:00:00.000,60
@@ -1841,6 +2105,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 35,McKenzie Ave,E,Shelbourne St,EW,WB,2011-10-04 17:00:00.000,30
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,WB,2011-10-04 17:00:00.000,7
 39,Wale Rd,W,Island Hwy,EW,WB,2011-10-04 17:00:00.000,8
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2011-10-04 17:00:00.000,59
 10,Douglas St,S,Bay St,NS,SB,2011-10-04 17:00:00.000,8
 22,Lochside Dr,S,Royal Oak Dr,NS,SB,2011-10-04 17:00:00.000,22
 30,Government St,N,Belleville St,NS,SB,2011-10-04 17:00:00.000,80
@@ -1870,6 +2135,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2011-10-06 07:00:00.000,58
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,WB,2011-10-06 07:00:00.000,1
 41,Craigflower Rd,E,Admirals Rd,EW,WB,2011-10-06 07:00:00.000,25
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2011-10-06 07:00:00.000,16
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2011-10-06 07:00:00.000,190
 11,Blanshard St,S,Bay St,NS,SB,2011-10-06 07:00:00.000,33
 30,Government St,N,Belleville St,NS,SB,2011-10-06 07:00:00.000,28
@@ -1879,6 +2145,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2011-10-06 08:00:00.000,28
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,WB,2011-10-06 08:00:00.000,4
 41,Craigflower Rd,E,Admirals Rd,EW,WB,2011-10-06 08:00:00.000,6
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2011-10-06 08:00:00.000,9
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2011-10-06 08:00:00.000,166
 11,Blanshard St,S,Bay St,NS,SB,2011-10-06 08:00:00.000,32
 30,Government St,N,Belleville St,NS,SB,2011-10-06 08:00:00.000,41
@@ -1996,6 +2263,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,SB,2012-10-03 17:00:00.000,29
 21,Galloping Goose Regional Trail,N,Sooke Rd,EW,WB,2012-10-04 07:00:00.000,0
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2012-10-04 07:00:00.000,60
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2012-10-04 07:00:00.000,19
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2012-10-04 07:00:00.000,238
 5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2012-10-04 07:00:00.000,105
 9,Government St,S,Bay St,NS,SB,2012-10-04 07:00:00.000,13
@@ -2005,6 +2273,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,SB,2012-10-04 07:00:00.000,82
 21,Galloping Goose Regional Trail,N,Sooke Rd,EW,WB,2012-10-04 08:00:00.000,0
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2012-10-04 08:00:00.000,57
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2012-10-04 08:00:00.000,9
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2012-10-04 08:00:00.000,174
 5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2012-10-04 08:00:00.000,79
 9,Government St,S,Bay St,NS,SB,2012-10-04 08:00:00.000,29
@@ -2016,6 +2285,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2012-10-04 15:00:00.000,60
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,WB,2012-10-04 15:00:00.000,5
 39,Wale Rd,W,Island Hwy,EW,WB,2012-10-04 15:00:00.000,9
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2012-10-04 15:00:00.000,26
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2012-10-04 15:00:00.000,93
 5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2012-10-04 15:00:00.000,47
 25,West Saanich Rd,N,Interurban Rd,NS,SB,2012-10-04 15:00:00.000,2
@@ -2025,6 +2295,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2012-10-04 16:00:00.000,123
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,WB,2012-10-04 16:00:00.000,8
 39,Wale Rd,W,Island Hwy,EW,WB,2012-10-04 16:00:00.000,16
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2012-10-04 16:00:00.000,56
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2012-10-04 16:00:00.000,116
 5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2012-10-04 16:00:00.000,49
 25,West Saanich Rd,N,Interurban Rd,NS,SB,2012-10-04 16:00:00.000,11
@@ -2034,6 +2305,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2012-10-04 17:00:00.000,155
 38,Goldstream Ave,W,Veterans Memorial Pky,EW,WB,2012-10-04 17:00:00.000,7
 39,Wale Rd,W,Island Hwy,EW,WB,2012-10-04 17:00:00.000,7
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2012-10-04 17:00:00.000,65
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2012-10-04 17:00:00.000,96
 5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2012-10-04 17:00:00.000,40
 25,West Saanich Rd,N,Interurban Rd,NS,SB,2012-10-04 17:00:00.000,16
@@ -2341,6 +2613,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 18,Oak Bay Ave,E,Foul Bay Rd,EW,WB,2014-10-07 07:00:00.000,23
 28,Pandora St,E,Blanshard St,EW,WB,2014-10-07 07:00:00.000,55
 29,Johnson St,E,Blanshard St,EW,WB,2014-10-07 07:00:00.000,NULL
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2014-10-07 07:00:00.000,19
 9,Government St,S,Bay St,NS,SB,2014-10-07 07:00:00.000,19
 10,Douglas St,S,Bay St,NS,SB,2014-10-07 07:00:00.000,25
 11,Blanshard St,S,Bay St,NS,SB,2014-10-07 07:00:00.000,47
@@ -2350,6 +2623,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 18,Oak Bay Ave,E,Foul Bay Rd,EW,WB,2014-10-07 08:00:00.000,24
 28,Pandora St,E,Blanshard St,EW,WB,2014-10-07 08:00:00.000,79
 29,Johnson St,E,Blanshard St,EW,WB,2014-10-07 08:00:00.000,NULL
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2014-10-07 08:00:00.000,15
 9,Government St,S,Bay St,NS,SB,2014-10-07 08:00:00.000,18
 10,Douglas St,S,Bay St,NS,SB,2014-10-07 08:00:00.000,14
 11,Blanshard St,S,Bay St,NS,SB,2014-10-07 08:00:00.000,46
@@ -2589,12 +2863,15 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 17,McKenzie Ave,E,Gordon Head Rd,EW,WB,2015-10-06 15:00:00.000,66
 39,Wale Rd,W,Island Hwy,EW,WB,2015-10-06 15:00:00.000,2
 53,Fairfield Rd,E,Cook St,EW,WB,2015-10-06 15:00:00.000,6
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2015-10-06 15:00:00.000,23
 17,McKenzie Ave,E,Gordon Head Rd,EW,WB,2015-10-06 16:00:00.000,73
 39,Wale Rd,W,Island Hwy,EW,WB,2015-10-06 16:00:00.000,8
 53,Fairfield Rd,E,Cook St,EW,WB,2015-10-06 16:00:00.000,9
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2015-10-06 16:00:00.000,64
 17,McKenzie Ave,E,Gordon Head Rd,EW,WB,2015-10-06 17:00:00.000,70
 39,Wale Rd,W,Island Hwy,EW,WB,2015-10-06 17:00:00.000,5
 53,Fairfield Rd,E,Cook St,EW,WB,2015-10-06 17:00:00.000,12
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2015-10-06 17:00:00.000,64
 19,Dallas Rd,E,Cook St,EW,WB,2015-10-07 07:00:00.000,9
 1,Wharf St,N,Fort St,NS,SB,2015-10-07 07:00:00.000,79
 49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,SB,2015-10-07 07:00:00.000,58
@@ -2705,6 +2982,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 17,McKenzie Ave,E,Gordon Head Rd,EW,WB,2016-10-18 07:00:00.000,8
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2016-10-18 07:00:00.000,57
 43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,WB,2016-10-18 07:00:00.000,21
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2016-10-18 07:00:00.000,13
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2016-10-18 07:00:00.000,232
 5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2016-10-18 07:00:00.000,93
 16,Henderson Rd,S,Cedar Hill Cross Rd,NS,SB,2016-10-18 07:00:00.000,28
@@ -2714,6 +2992,7 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 17,McKenzie Ave,E,Gordon Head Rd,EW,WB,2016-10-18 08:00:00.000,9
 32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2016-10-18 08:00:00.000,46
 43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,WB,2016-10-18 08:00:00.000,16
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2016-10-18 08:00:00.000,9
 4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2016-10-18 08:00:00.000,162
 5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2016-10-18 08:00:00.000,67
 16,Henderson Rd,S,Cedar Hill Cross Rd,NS,SB,2016-10-18 08:00:00.000,25
@@ -2782,16 +3061,19 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 2,Johnson St Bridge,W,Wharf St,EW,WB,2016-10-20 15:00:00.000,95
 35,McKenzie Ave,E,Shelbourne St,EW,WB,2016-10-20 15:00:00.000,24
 46,Sooke Rd,W,Sooke River Rd,EW,WB,2016-10-20 15:00:00.000,3
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2016-10-20 15:00:00.000,22
 34,Shelbourne St,S,McKenzie Ave,NS,SB,2016-10-20 15:00:00.000,14
 54,Shelbourne St,N,Hillside Ave,NS,SB,2016-10-20 15:00:00.000,10
 2,Johnson St Bridge,W,Wharf St,EW,WB,2016-10-20 16:00:00.000,233
 35,McKenzie Ave,E,Shelbourne St,EW,WB,2016-10-20 16:00:00.000,31
 46,Sooke Rd,W,Sooke River Rd,EW,WB,2016-10-20 16:00:00.000,1
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2016-10-20 16:00:00.000,36
 34,Shelbourne St,S,McKenzie Ave,NS,SB,2016-10-20 16:00:00.000,7
 54,Shelbourne St,N,Hillside Ave,NS,SB,2016-10-20 16:00:00.000,8
 2,Johnson St Bridge,W,Wharf St,EW,WB,2016-10-20 17:00:00.000,226
 35,McKenzie Ave,E,Shelbourne St,EW,WB,2016-10-20 17:00:00.000,26
 46,Sooke Rd,W,Sooke River Rd,EW,WB,2016-10-20 17:00:00.000,0
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2016-10-20 17:00:00.000,66
 34,Shelbourne St,S,McKenzie Ave,NS,SB,2016-10-20 17:00:00.000,5
 54,Shelbourne St,N,Hillside Ave,NS,SB,2016-10-20 17:00:00.000,8
 2,Johnson St Bridge,W,Wharf St,EW,WB,2017-05-16 07:00:00.000,121
@@ -3617,3 +3899,247 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 36,Shelbourne St,N,Pear St,NS,SB,2018-10-18 17:00:00.000,15
 55,Vancouver St,S,Caledonia Ave,NS,SB,2018-10-18 17:00:00.000,46
 56,Cook St,S,Caledonia Ave,NS,SB,2018-10-18 17:00:00.000,27
+12,Haultain St,W,Forbes St,EW,WB,2019-05-07 07:00:00.000,66
+15,Humboldt St,E,Blanshard St,EW,WB,2019-05-07 07:00:00.000,31
+18,Oak Bay Ave,E,Foul Bay Rd,EW,WB,2019-05-07 07:00:00.000,26
+35,McKenzie Ave,E,Shelbourne St,EW,WB,2019-05-07 07:00:00.000,21
+38,Goldstream Ave,W,Veterans Memorial Pky,EW,WB,2019-05-07 07:00:00.000,11
+39,Wale Rd,W,Island Hwy,EW,WB,2019-05-07 07:00:00.000,37
+40,Esquimalt Rd,W,Lampson St,EW,WB,2019-05-07 07:00:00.000,37
+50,Fort St,W,Vancouver St,EW,WB,2019-05-07 07:00:00.000,29
+53,Fairfield Rd,E,Cook St,EW,WB,2019-05-07 07:00:00.000,29
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2019-05-07 07:00:00.000,31
+4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2019-05-07 07:00:00.000,320
+5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2019-05-07 07:00:00.000,143
+8,Galloping Goose Regional Trail,S,Selkirk Trestle,NS,SB,2019-05-07 07:00:00.000,330
+14,Vancouver St,S,Fort St,NS,SB,2019-05-07 07:00:00.000,27
+33,Admirals Rd,S,Colville Rd,NS,SB,2019-05-07 07:00:00.000,29
+34,Shelbourne St,S,McKenzie Ave,NS,SB,2019-05-07 07:00:00.000,11
+44,West Saanich Rd,N,Wallace Dr,NS,SB,2019-05-07 07:00:00.000,3
+47,Glanford Ave,N,McKenzie Ave,NS,SB,2019-05-07 07:00:00.000,20
+55,Vancouver St,S,Caledonia Ave,NS,SB,2019-05-07 07:00:00.000,57
+12,Haultain St,W,Forbes St,EW,WB,2019-05-07 08:00:00.000,89
+15,Humboldt St,E,Blanshard St,EW,WB,2019-05-07 08:00:00.000,43
+18,Oak Bay Ave,E,Foul Bay Rd,EW,WB,2019-05-07 08:00:00.000,24
+35,McKenzie Ave,E,Shelbourne St,EW,WB,2019-05-07 08:00:00.000,26
+38,Goldstream Ave,W,Veterans Memorial Pky,EW,WB,2019-05-07 08:00:00.000,20
+39,Wale Rd,W,Island Hwy,EW,WB,2019-05-07 08:00:00.000,9
+40,Esquimalt Rd,W,Lampson St,EW,WB,2019-05-07 08:00:00.000,13
+50,Fort St,W,Vancouver St,EW,WB,2019-05-07 08:00:00.000,69
+53,Fairfield Rd,E,Cook St,EW,WB,2019-05-07 08:00:00.000,45
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2019-05-07 08:00:00.000,32
+4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2019-05-07 08:00:00.000,312
+5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2019-05-07 08:00:00.000,120
+8,Galloping Goose Regional Trail,S,Selkirk Trestle,NS,SB,2019-05-07 08:00:00.000,348
+14,Vancouver St,S,Fort St,NS,SB,2019-05-07 08:00:00.000,73
+33,Admirals Rd,S,Colville Rd,NS,SB,2019-05-07 08:00:00.000,30
+34,Shelbourne St,S,McKenzie Ave,NS,SB,2019-05-07 08:00:00.000,11
+44,West Saanich Rd,N,Wallace Dr,NS,SB,2019-05-07 08:00:00.000,6
+47,Glanford Ave,N,McKenzie Ave,NS,SB,2019-05-07 08:00:00.000,16
+55,Vancouver St,S,Caledonia Ave,NS,SB,2019-05-07 08:00:00.000,152
+12,Haultain St,W,Forbes St,EW,WB,2019-05-07 15:00:00.000,38
+18,Oak Bay Ave,E,Foul Bay Rd,EW,WB,2019-05-07 15:00:00.000,29
+41,Craigflower Rd,E,Admirals Rd,EW,WB,2019-05-07 15:00:00.000,8
+42,Sooke Rd,N,Otter Point Rd,EW,WB,2019-05-07 15:00:00.000,8
+50,Fort St,W,Vancouver St,EW,WB,2019-05-07 15:00:00.000,23
+53,Fairfield Rd,E,Cook St,EW,WB,2019-05-07 15:00:00.000,10
+4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2019-05-07 15:00:00.000,137
+5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2019-05-07 15:00:00.000,88
+10,Douglas St,S,Bay St,NS,SB,2019-05-07 15:00:00.000,12
+14,Vancouver St,S,Fort St,NS,SB,2019-05-07 15:00:00.000,31
+16,Henderson Rd,S,Cedar Hill Cross Rd,NS,SB,2019-05-07 15:00:00.000,42
+22,Lochside Dr,S,Royal Oak Dr,NS,SB,2019-05-07 15:00:00.000,43
+33,Admirals Rd,S,Colville Rd,NS,SB,2019-05-07 15:00:00.000,14
+34,Shelbourne St,S,McKenzie Ave,NS,SB,2019-05-07 15:00:00.000,10
+44,West Saanich Rd,N,Wallace Dr,NS,SB,2019-05-07 15:00:00.000,1
+48,Lochside Regional Trail ,S,Quadra St,NS,SB,2019-05-07 15:00:00.000,93
+55,Vancouver St,S,Caledonia Ave,NS,SB,2019-05-07 15:00:00.000,39
+12,Haultain St,W,Forbes St,EW,WB,2019-05-07 16:00:00.000,66
+18,Oak Bay Ave,E,Foul Bay Rd,EW,WB,2019-05-07 16:00:00.000,34
+41,Craigflower Rd,E,Admirals Rd,EW,WB,2019-05-07 16:00:00.000,21
+42,Sooke Rd,N,Otter Point Rd,EW,WB,2019-05-07 16:00:00.000,5
+50,Fort St,W,Vancouver St,EW,WB,2019-05-07 16:00:00.000,36
+53,Fairfield Rd,E,Cook St,EW,WB,2019-05-07 16:00:00.000,15
+4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2019-05-07 16:00:00.000,190
+5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2019-05-07 16:00:00.000,102
+10,Douglas St,S,Bay St,NS,SB,2019-05-07 16:00:00.000,15
+14,Vancouver St,S,Fort St,NS,SB,2019-05-07 16:00:00.000,55
+16,Henderson Rd,S,Cedar Hill Cross Rd,NS,SB,2019-05-07 16:00:00.000,100
+22,Lochside Dr,S,Royal Oak Dr,NS,SB,2019-05-07 16:00:00.000,36
+33,Admirals Rd,S,Colville Rd,NS,SB,2019-05-07 16:00:00.000,40
+34,Shelbourne St,S,McKenzie Ave,NS,SB,2019-05-07 16:00:00.000,3
+44,West Saanich Rd,N,Wallace Dr,NS,SB,2019-05-07 16:00:00.000,1
+48,Lochside Regional Trail ,S,Quadra St,NS,SB,2019-05-07 16:00:00.000,115
+55,Vancouver St,S,Caledonia Ave,NS,SB,2019-05-07 16:00:00.000,34
+12,Haultain St,W,Forbes St,EW,WB,2019-05-07 17:00:00.000,64
+18,Oak Bay Ave,E,Foul Bay Rd,EW,WB,2019-05-07 17:00:00.000,39
+41,Craigflower Rd,E,Admirals Rd,EW,WB,2019-05-07 17:00:00.000,24
+42,Sooke Rd,N,Otter Point Rd,EW,WB,2019-05-07 17:00:00.000,1
+50,Fort St,W,Vancouver St,EW,WB,2019-05-07 17:00:00.000,26
+53,Fairfield Rd,E,Cook St,EW,WB,2019-05-07 17:00:00.000,20
+4,Galloping Goose Regional Trail,S,Information Booth at Switch Bridge,NS,SB,2019-05-07 17:00:00.000,161
+5,Lochside Regional Trail,S,McKenzie Ave,NS,SB,2019-05-07 17:00:00.000,70
+10,Douglas St,S,Bay St,NS,SB,2019-05-07 17:00:00.000,15
+14,Vancouver St,S,Fort St,NS,SB,2019-05-07 17:00:00.000,59
+16,Henderson Rd,S,Cedar Hill Cross Rd,NS,SB,2019-05-07 17:00:00.000,90
+22,Lochside Dr,S,Royal Oak Dr,NS,SB,2019-05-07 17:00:00.000,40
+33,Admirals Rd,S,Colville Rd,NS,SB,2019-05-07 17:00:00.000,10
+34,Shelbourne St,S,McKenzie Ave,NS,SB,2019-05-07 17:00:00.000,11
+44,West Saanich Rd,N,Wallace Dr,NS,SB,2019-05-07 17:00:00.000,7
+48,Lochside Regional Trail ,S,Quadra St,NS,SB,2019-05-07 17:00:00.000,88
+55,Vancouver St,S,Caledonia Ave,NS,SB,2019-05-07 17:00:00.000,35
+17,McKenzie Ave,E,Gordon Head Rd,EW,WB,2019-05-08 07:00:00.000,4
+19,Dallas Rd,E,Cook St,EW,WB,2019-05-08 07:00:00.000,24
+20,Fort St,N,Oak Bay Ave,EW,WB,2019-05-08 07:00:00.000,62
+32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2019-05-08 07:00:00.000,98
+37,Gorge Rd,W,Jutland Rd,EW,WB,2019-05-08 07:00:00.000,7
+43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,WB,2019-05-08 07:00:00.000,37
+1,Wharf St,N,Fort St,NS,SB,2019-05-08 07:00:00.000,199
+3,E&N Rail Trail,N,Esquimalt Rd,NS,SB,2019-05-08 07:00:00.000,67
+9,Government St,S,Bay St,NS,SB,2019-05-08 07:00:00.000,16
+16,Henderson Rd,S,Cedar Hill Cross Rd,NS,SB,2019-05-08 07:00:00.000,42
+22,Lochside Dr,S,Royal Oak Dr,NS,SB,2019-05-08 07:00:00.000,70
+23,Fifth St,S,Ocean Ave,NS,SB,2019-05-08 07:00:00.000,7
+30,Government St,N,Belleville St,NS,SB,2019-05-08 07:00:00.000,74
+36,Shelbourne St,N,Pear St,NS,SB,2019-05-08 07:00:00.000,8
+45,University Dr,S,Ring Rd,NS,SB,2019-05-08 07:00:00.000,23
+17,McKenzie Ave,E,Gordon Head Rd,EW,WB,2019-05-08 08:00:00.000,8
+19,Dallas Rd,E,Cook St,EW,WB,2019-05-08 08:00:00.000,31
+20,Fort St,N,Oak Bay Ave,EW,WB,2019-05-08 08:00:00.000,63
+32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2019-05-08 08:00:00.000,69
+37,Gorge Rd,W,Jutland Rd,EW,WB,2019-05-08 08:00:00.000,11
+43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,WB,2019-05-08 08:00:00.000,36
+1,Wharf St,N,Fort St,NS,SB,2019-05-08 08:00:00.000,270
+3,E&N Rail Trail,N,Esquimalt Rd,NS,SB,2019-05-08 08:00:00.000,64
+9,Government St,S,Bay St,NS,SB,2019-05-08 08:00:00.000,28
+16,Henderson Rd,S,Cedar Hill Cross Rd,NS,SB,2019-05-08 08:00:00.000,32
+22,Lochside Dr,S,Royal Oak Dr,NS,SB,2019-05-08 08:00:00.000,42
+23,Fifth St,S,Ocean Ave,NS,SB,2019-05-08 08:00:00.000,10
+30,Government St,N,Belleville St,NS,SB,2019-05-08 08:00:00.000,121
+36,Shelbourne St,N,Pear St,NS,SB,2019-05-08 08:00:00.000,19
+45,University Dr,S,Ring Rd,NS,SB,2019-05-08 08:00:00.000,21
+20,Fort St,N,Oak Bay Ave,EW,WB,2019-05-08 15:00:00.000,38
+32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2019-05-08 15:00:00.000,109
+35,McKenzie Ave,E,Shelbourne St,EW,WB,2019-05-08 15:00:00.000,27
+37,Gorge Rd,W,Jutland Rd,EW,WB,2019-05-08 15:00:00.000,21
+39,Wale Rd,W,Island Hwy,EW,WB,2019-05-08 15:00:00.000,55
+40,Esquimalt Rd,W,Lampson St,EW,WB,2019-05-08 15:00:00.000,20
+43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,WB,2019-05-08 15:00:00.000,146
+46,Sooke Rd,W,Sooke River Rd,EW,WB,2019-05-08 15:00:00.000,10
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2019-05-08 15:00:00.000,62
+1,Wharf St,N,Fort St,NS,SB,2019-05-08 15:00:00.000,105
+3,E&N Rail Trail,N,Esquimalt Rd,NS,SB,2019-05-08 15:00:00.000,42
+6,Interuban Rd,N,Burnside Rd W,NS,SB,2019-05-08 15:00:00.000,25
+8,Galloping Goose Regional Trail,S,Selkirk Trestle,NS,SB,2019-05-08 15:00:00.000,140
+13,Cook St,S,Fort St,NS,SB,2019-05-08 15:00:00.000,30
+23,Fifth St,S,Ocean Ave,NS,SB,2019-05-08 15:00:00.000,22
+30,Government St,N,Belleville St,NS,SB,2019-05-08 15:00:00.000,78
+36,Shelbourne St,N,Pear St,NS,SB,2019-05-08 15:00:00.000,6
+45,University Dr,S,Ring Rd,NS,SB,2019-05-08 15:00:00.000,69
+49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,SB,2019-05-08 15:00:00.000,51
+20,Fort St,N,Oak Bay Ave,EW,WB,2019-05-08 16:00:00.000,42
+32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2019-05-08 16:00:00.000,192
+35,McKenzie Ave,E,Shelbourne St,EW,WB,2019-05-08 16:00:00.000,41
+37,Gorge Rd,W,Jutland Rd,EW,WB,2019-05-08 16:00:00.000,51
+39,Wale Rd,W,Island Hwy,EW,WB,2019-05-08 16:00:00.000,98
+40,Esquimalt Rd,W,Lampson St,EW,WB,2019-05-08 16:00:00.000,29
+43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,WB,2019-05-08 16:00:00.000,301
+46,Sooke Rd,W,Sooke River Rd,EW,WB,2019-05-08 16:00:00.000,3
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2019-05-08 16:00:00.000,105
+1,Wharf St,N,Fort St,NS,SB,2019-05-08 16:00:00.000,108
+3,E&N Rail Trail,N,Esquimalt Rd,NS,SB,2019-05-08 16:00:00.000,58
+6,Interuban Rd,N,Burnside Rd W,NS,SB,2019-05-08 16:00:00.000,24
+8,Galloping Goose Regional Trail,S,Selkirk Trestle,NS,SB,2019-05-08 16:00:00.000,187
+13,Cook St,S,Fort St,NS,SB,2019-05-08 16:00:00.000,54
+23,Fifth St,S,Ocean Ave,NS,SB,2019-05-08 16:00:00.000,18
+30,Government St,N,Belleville St,NS,SB,2019-05-08 16:00:00.000,100
+36,Shelbourne St,N,Pear St,NS,SB,2019-05-08 16:00:00.000,19
+45,University Dr,S,Ring Rd,NS,SB,2019-05-08 16:00:00.000,122
+49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,SB,2019-05-08 16:00:00.000,44
+20,Fort St,N,Oak Bay Ave,EW,WB,2019-05-08 17:00:00.000,35
+32,Galloping Goose Regional Trail,N,Crease Rd,EW,WB,2019-05-08 17:00:00.000,192
+35,McKenzie Ave,E,Shelbourne St,EW,WB,2019-05-08 17:00:00.000,37
+37,Gorge Rd,W,Jutland Rd,EW,WB,2019-05-08 17:00:00.000,40
+39,Wale Rd,W,Island Hwy,EW,WB,2019-05-08 17:00:00.000,83
+40,Esquimalt Rd,W,Lampson St,EW,WB,2019-05-08 17:00:00.000,37
+43,Galloping Goose Regional Trail,S,E&N Rail Trail,EW,WB,2019-05-08 17:00:00.000,188
+46,Sooke Rd,W,Sooke River Rd,EW,WB,2019-05-08 17:00:00.000,1
+58,Galloping Goose ,E,Burnside Rd W,EW,WB,2019-05-08 17:00:00.000,146
+1,Wharf St,N,Fort St,NS,SB,2019-05-08 17:00:00.000,121
+3,E&N Rail Trail,N,Esquimalt Rd,NS,SB,2019-05-08 17:00:00.000,32
+6,Interuban Rd,N,Burnside Rd W,NS,SB,2019-05-08 17:00:00.000,23
+8,Galloping Goose Regional Trail,S,Selkirk Trestle,NS,SB,2019-05-08 17:00:00.000,161
+13,Cook St,S,Fort St,NS,SB,2019-05-08 17:00:00.000,47
+23,Fifth St,S,Ocean Ave,NS,SB,2019-05-08 17:00:00.000,20
+30,Government St,N,Belleville St,NS,SB,2019-05-08 17:00:00.000,100
+36,Shelbourne St,N,Pear St,NS,SB,2019-05-08 17:00:00.000,17
+45,University Dr,S,Ring Rd,NS,SB,2019-05-08 17:00:00.000,97
+49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,SB,2019-05-08 17:00:00.000,37
+2,Johnson St Bridge,W,Wharf St,EW,WB,2019-05-09 07:00:00.000,195
+27,Richardson St,E,Cook St,EW,WB,2019-05-09 07:00:00.000,43
+28,Pandora St,E,Blanshard St,EW,WB,2019-05-09 07:00:00.000,152
+41,Craigflower Rd,E,Admirals Rd,EW,WB,2019-05-09 07:00:00.000,10
+51,Lansdowne Rd,W,Richmond Rd,EW,WB,2019-05-09 07:00:00.000,20
+52,Pandora Ave,E,Cook St,EW,WB,2019-05-09 07:00:00.000,124
+6,Interuban Rd,N,Burnside Rd W,NS,SB,2019-05-09 07:00:00.000,31
+7,E&N Rail Trail,S,Portage Park Trail,NS,SB,2019-05-09 07:00:00.000,232
+10,Douglas St,S,Bay St,NS,SB,2019-05-09 07:00:00.000,7
+11,Blanshard St,S,Bay St,NS,SB,2019-05-09 07:00:00.000,36
+13,Cook St,S,Fort St,NS,SB,2019-05-09 07:00:00.000,20
+24,Lochside Regional Trail,S,Ardwell Ave,NS,SB,2019-05-09 07:00:00.000,3
+31,Lochside Regional Trail,N,Switch Bridge,NS,SB,2019-05-09 07:00:00.000,213
+48,Lochside Regional Trail ,S,Quadra St,NS,SB,2019-05-09 07:00:00.000,154
+49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,SB,2019-05-09 07:00:00.000,98
+54,Shelbourne St,N,Hillside Ave,NS,SB,2019-05-09 07:00:00.000,19
+2,Johnson St Bridge,W,Wharf St,EW,WB,2019-05-09 08:00:00.000,199
+27,Richardson St,E,Cook St,EW,WB,2019-05-09 08:00:00.000,63
+28,Pandora St,E,Blanshard St,EW,WB,2019-05-09 08:00:00.000,164
+41,Craigflower Rd,E,Admirals Rd,EW,WB,2019-05-09 08:00:00.000,10
+51,Lansdowne Rd,W,Richmond Rd,EW,WB,2019-05-09 08:00:00.000,13
+52,Pandora Ave,E,Cook St,EW,WB,2019-05-09 08:00:00.000,125
+6,Interuban Rd,N,Burnside Rd W,NS,SB,2019-05-09 08:00:00.000,20
+7,E&N Rail Trail,S,Portage Park Trail,NS,SB,2019-05-09 08:00:00.000,138
+10,Douglas St,S,Bay St,NS,SB,2019-05-09 08:00:00.000,15
+11,Blanshard St,S,Bay St,NS,SB,2019-05-09 08:00:00.000,38
+13,Cook St,S,Fort St,NS,SB,2019-05-09 08:00:00.000,38
+24,Lochside Regional Trail,S,Ardwell Ave,NS,SB,2019-05-09 08:00:00.000,16
+31,Lochside Regional Trail,N,Switch Bridge,NS,SB,2019-05-09 08:00:00.000,178
+48,Lochside Regional Trail ,S,Quadra St,NS,SB,2019-05-09 08:00:00.000,113
+49,Lochside Regional Trail,N,Cedar Hill Cross Rd,NS,SB,2019-05-09 08:00:00.000,79
+54,Shelbourne St,N,Hillside Ave,NS,SB,2019-05-09 08:00:00.000,11
+2,Johnson St Bridge,W,Wharf St,EW,WB,2019-05-09 15:00:00.000,226
+21,Galloping Goose Regional Trail,N,Sooke Rd,EW,WB,2019-05-09 15:00:00.000,3
+27,Richardson St,E,Cook St,EW,WB,2019-05-09 15:00:00.000,5
+28,Pandora St,E,Blanshard St,EW,WB,2019-05-09 15:00:00.000,98
+38,Goldstream Ave,W,Veterans Memorial Pky,EW,WB,2019-05-09 15:00:00.000,14
+51,Lansdowne Rd,W,Richmond Rd,EW,WB,2019-05-09 15:00:00.000,23
+52,Pandora Ave,E,Cook St,EW,WB,2019-05-09 15:00:00.000,46
+57,Cadboro Bay Rd,E,Foul Bay Rd,EW,WB,2019-05-09 15:00:00.000,35
+11,Blanshard St,S,Bay St,NS,SB,2019-05-09 15:00:00.000,18
+24,Lochside Regional Trail,S,Ardwell Ave,NS,SB,2019-05-09 15:00:00.000,32
+31,Lochside Regional Trail,N,Switch Bridge,NS,SB,2019-05-09 15:00:00.000,107
+47,Glanford Ave,N,McKenzie Ave,NS,SB,2019-05-09 15:00:00.000,4
+2,Johnson St Bridge,W,Wharf St,EW,WB,2019-05-09 16:00:00.000,544
+21,Galloping Goose Regional Trail,N,Sooke Rd,EW,WB,2019-05-09 16:00:00.000,1
+27,Richardson St,E,Cook St,EW,WB,2019-05-09 16:00:00.000,14
+28,Pandora St,E,Blanshard St,EW,WB,2019-05-09 16:00:00.000,162
+38,Goldstream Ave,W,Veterans Memorial Pky,EW,WB,2019-05-09 16:00:00.000,26
+51,Lansdowne Rd,W,Richmond Rd,EW,WB,2019-05-09 16:00:00.000,40
+52,Pandora Ave,E,Cook St,EW,WB,2019-05-09 16:00:00.000,43
+57,Cadboro Bay Rd,E,Foul Bay Rd,EW,WB,2019-05-09 16:00:00.000,16
+11,Blanshard St,S,Bay St,NS,SB,2019-05-09 16:00:00.000,25
+24,Lochside Regional Trail,S,Ardwell Ave,NS,SB,2019-05-09 16:00:00.000,5
+31,Lochside Regional Trail,N,Switch Bridge,NS,SB,2019-05-09 16:00:00.000,119
+47,Glanford Ave,N,McKenzie Ave,NS,SB,2019-05-09 16:00:00.000,10
+2,Johnson St Bridge,W,Wharf St,EW,WB,2019-05-09 17:00:00.000,415
+21,Galloping Goose Regional Trail,N,Sooke Rd,EW,WB,2019-05-09 17:00:00.000,2
+27,Richardson St,E,Cook St,EW,WB,2019-05-09 17:00:00.000,11
+28,Pandora St,E,Blanshard St,EW,WB,2019-05-09 17:00:00.000,117
+38,Goldstream Ave,W,Veterans Memorial Pky,EW,WB,2019-05-09 17:00:00.000,28
+51,Lansdowne Rd,W,Richmond Rd,EW,WB,2019-05-09 17:00:00.000,25
+52,Pandora Ave,E,Cook St,EW,WB,2019-05-09 17:00:00.000,40
+57,Cadboro Bay Rd,E,Foul Bay Rd,EW,WB,2019-05-09 17:00:00.000,26
+11,Blanshard St,S,Bay St,NS,SB,2019-05-09 17:00:00.000,18
+24,Lochside Regional Trail,S,Ardwell Ave,NS,SB,2019-05-09 17:00:00.000,6
+31,Lochside Regional Trail,N,Switch Bridge,NS,SB,2019-05-09 17:00:00.000,107
+47,Glanford Ave,N,McKenzie Ave,NS,SB,2019-05-09 17:00:00.000,1
