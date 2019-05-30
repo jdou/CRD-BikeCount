@@ -5,29 +5,31 @@
     <meta charset='utf-8'>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <title>Cyclists at intersections</title>
-    <script src='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
-    <link href='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
-    <link href='https://www.mapbox.com/base/latest/base.css' rel='stylesheet' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css' rel='stylesheet' />
+    
     <script src="http://d3js.org/d3.v4.min.js"></script>
     <link href={{ url_for( 'static', filename='map.css' ) }} rel="stylesheet" media="screen">
 </head>
 
 <body>
+    
     <div id='map'></div>
+    <nav role="navigation">
+            <div id="menuToggle">
+                    <input type="checkbox" checked />
+                    <span class='toggle'></span>
+                    <span class='toggle'></span>
+                    <span class='toggle'></span>
+                
     <div id='legend' class='legend'>
+        <div id='legendContent'>
         <img src={{ url_for( 'static', filename='crd-logo-text.png' ) }} class='logo' />
         <h2>Bicycle Count</h2>
-        <ul id="buttons-year">
-            <li id='button-2011' class='button'>2011</li>
-            <li id='button-2012' class='button'>2012</li>
-            <li id='button-2013' class='button'>2013</li>
-            <li id='button-2014' class='button'>2014</li>
-            <li id='button-2015' class='button'>2015</li>
-            <li id='button-2016' class='button'>2016</li>
-            <li id='button-2017' class='button'>2017</li>
-            <li id='button-2018' class='button selected'>2018</li>
-        </ul>
-        <hr>
+        <label id='year'>Year</label>
+        <input id='slider' type='range' min='2011' max='2018' step='1' value='2018' />
+        
+        
 
         <ul id="buttons-month">
             <li id='button-5' class='button selected'>May</li>
@@ -45,7 +47,10 @@
         </div>
         <p><a href="/about">About/Licence</a></p>
     </div>
-
+    </div>
+</div>
+    </nav>
+    
     <script src={{ url_for( 'static', filename='map.js' ) }}></script>
 </body>
 
