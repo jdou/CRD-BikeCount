@@ -101,8 +101,12 @@ h1, h2, h3,h4,h5,h6{
 }
  #symbolLegend{
   text-align:left;
-  width:76px;
+  width:50%;
   margin:auto;
+ }
+ #symbolLegend{
+   margin:auto;
+   width:50%
  }
  #legendContent h1{
    margin:5px 0;
