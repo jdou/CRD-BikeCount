@@ -104,15 +104,20 @@ h1, h2, h3,h4,h5,h6{
   width:76px;
   margin:auto;
  }
- 
-
+ #legendContent h1{
+   margin:5px 0;
+   font-size: 25px;
+ }
+#legendContent p {
+  margin-top:5px;
+}
  input[type='range'] {
    
   background-color: transparent;
   display: inline-block;
   width: 100%;
   position: relative;
-  margin: 0;
+  margin: 10px 0;
   cursor: ew-resize;
   }
   input[type="range"]::-ms-fill-lower,

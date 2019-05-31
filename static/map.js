@@ -17,7 +17,7 @@ var colorList = [
 ];
 var CurrentYear = 2019
 var CurrentMonth = 5
-document.getElementById('year').textContent= "Year:" +CurrentYear
+document.getElementById('year').textContent= "Year: " +CurrentYear
 
 //Load a new map in the 'map' HTML div
 var map = new mapboxgl.Map({
@@ -30,7 +30,8 @@ var map = new mapboxgl.Map({
 map.on('load', function() {
     map.addSource('cycling-volume', {
         type: 'geojson',
-        data: 'static/peakHour.json' //Mapbox tileset Map ID
+        data: 'static/peakHour.json', //Mapbox tileset Map ID
+        attribution: '<a href="about">© CRD</a>'
     });
     //Add the circle layer to the map
     map.addControl(new mapboxgl.NavigationControl(), 'top-left');
@@ -107,7 +108,7 @@ function changeYear(ev){
         popup.remove()
         
     } catch (e) {}
-    document.getElementById('year').textContent = "Year:" +CurrentYear
+    document.getElementById('year').textContent = "Year: " +CurrentYear
     var UpdateFilter = ["all", ["==", "Year", CurrentYear],
         ["==", "Month", CurrentMonth]
     ]
