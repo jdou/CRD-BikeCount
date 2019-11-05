@@ -8,20 +8,20 @@ This data may only be used under the terms of the Open Government License - Capi
 
 # Data
 
-BikeCountsHourly.csv
-All row durations are 1 hour.
+BikeCountsHourly.csv\
+All row durations are 1 hour.\
 
-countID - Unique count Station identifier
-onStreet - Name of street/trail segment that was counted
-xStreet - Nearest cross street/trail to the screenline
-location - Location (E,W,N,S) of the screenline relative to the xStreet
-countDirection - (EW,NS) Headings of the volume through the screenline
-countStart - (YYYY-MM-DD HH:MM:SS.MS) The start hour of the row
-totalCount - Total volume of cyclist for the row
+countID - Unique count Station identifier\
+onStreet - Name of street/trail segment that was counted\
+xStreet - Nearest cross street/trail to the screenline\
+location - Location (E,W,N,S) of the screenline relative to the xStreet\
+countDirection - (EW,NS) Headings of the volume through the screenline\
+countStart - (YYYY-MM-DD HH:MM:SS.MS) The start hour of the row\
+totalCount - Total volume of cyclist for the row\
 
-peakHour.json
-Contains point features with a peak hour count calculated from BikeCountsHourly.csv
-peak hour is the max hourly count including both headings. 
+peakHour.json\
+Contains point features with a peak hour count calculated from BikeCountsHourly.csv\
+peak hour is the max hourly count including both headings.\
 
 
 
