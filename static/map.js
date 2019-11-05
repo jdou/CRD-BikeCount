@@ -16,7 +16,7 @@ var colorList = [
     [251, '#7a0177']
 ];
 var CurrentYear = 2019
-var CurrentMonth = 5
+var CurrentMonth = 10
 document.getElementById('year').textContent= "Year: " +CurrentYear
 
 //Load a new map in the 'map' HTML div
