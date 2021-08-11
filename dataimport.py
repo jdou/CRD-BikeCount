@@ -17,23 +17,11 @@ cur.execute("""CREATE TABLE counts(
     totalCount INTEGER
     )""")
  
-with open('static/BikeCountsHourly.csv', "rb") as csv_file:
+with open('static/BikeCountsHourly.csv', "r") as csv_file:
     reader = csv.reader(csv_file)
     #Skip the header 
     next(reader)
-    for row in reader:
-        to_db = [
-        unicode(row[0], "utf8"), 
-        unicode(row[1], "utf8"),
-        unicode(row[2], "utf8"),
-        unicode(row[3], "utf8"),
-        unicode(row[4], "utf8"),
-        unicode(row[5], "utf8"),
-        unicode(row[6], "utf8"),
-        row[7]
-       
-        ]
-        cur.execute("""INSERT INTO counts (
+    cur.executemany("""INSERT INTO counts (
             countID,
             onStreet,
             location,
@@ -42,7 +30,7 @@ with open('static/BikeCountsHourly.csv', "rb") as csv_file:
             heading,
             countStart,
             totalCount
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?);""", to_db)
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?);""", reader)
 cur.execute("CREATE INDEX countID_idx on counts(countID);")
 conn.commit()
 conn.close()
