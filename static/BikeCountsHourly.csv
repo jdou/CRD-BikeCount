@@ -2646,6 +2646,343 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 24,Lochside Regional Trail,South,Ardwell Ave,NS,NB,2021-05-20 17:00:00.000,10
 31,Lochside Regional Trail,North,Switch Bridge,NS,NB,2021-05-20 17:00:00.000,157
 36,Shelbourne St,North,Pear St,NS,NB,2021-05-20 17:00:00.000,10
+20,Fort St,North,Oak Bay Ave,EW,EB,2021-10-05 07:00:00.000,24
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,EB,2021-10-05 07:00:00.000,0
+29,Johnson St,East,Blanshard St,EW,EB,2021-10-05 07:00:00.000,19
+35,McKenzie Ave,East,Shelbourne St,EW,EB,2021-10-05 07:00:00.000,24
+5,Lochside Regional Trail,South,McKenzie Ave,NS,NB,2021-10-05 07:00:00.000,43
+22,Lochside Dr,South,Royal Oak Dr,NS,NB,2021-10-05 07:00:00.000,17
+23,Fifth St,South,Ocean Ave,NS,NB,2021-10-05 07:00:00.000,2
+47,Glanford Ave,North,McKenzie Ave,NS,NB,2021-10-05 07:00:00.000,4
+55,Vancouver St,South,Caledonia Ave,NS,NB,2021-10-05 07:00:00.000,14
+20,Fort St,North,Oak Bay Ave,EW,EB,2021-10-05 08:00:00.000,44
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,EB,2021-10-05 08:00:00.000,1
+29,Johnson St,East,Blanshard St,EW,EB,2021-10-05 08:00:00.000,31
+35,McKenzie Ave,East,Shelbourne St,EW,EB,2021-10-05 08:00:00.000,63
+5,Lochside Regional Trail,South,McKenzie Ave,NS,NB,2021-10-05 08:00:00.000,60
+22,Lochside Dr,South,Royal Oak Dr,NS,NB,2021-10-05 08:00:00.000,19
+23,Fifth St,South,Ocean Ave,NS,NB,2021-10-05 08:00:00.000,9
+47,Glanford Ave,North,McKenzie Ave,NS,NB,2021-10-05 08:00:00.000,3
+55,Vancouver St,South,Caledonia Ave,NS,NB,2021-10-05 08:00:00.000,40
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,EB,2021-10-05 15:00:00.000,2
+29,Johnson St,East,Blanshard St,EW,EB,2021-10-05 15:00:00.000,18
+39,Wale Rd,West,Island Hwy,EW,EB,2021-10-05 15:00:00.000,15
+52,Pandora Ave,East,Cook St,EW,EB,2021-10-05 15:00:00.000,2
+3,E&N Rail Trail,North,Esquimalt Rd,NS,NB,2021-10-05 15:00:00.000,25
+4,Galloping Goose Regional Trail,South,Information Booth at Switch Bridge,NS,NB,2021-10-05 15:00:00.000,62
+5,Lochside Regional Trail,South,McKenzie Ave,NS,NB,2021-10-05 15:00:00.000,24
+22,Lochside Dr,South,Royal Oak Dr,NS,NB,2021-10-05 15:00:00.000,18
+23,Fifth St,South,Ocean Ave,NS,NB,2021-10-05 15:00:00.000,3
+55,Vancouver St,South,Caledonia Ave,NS,NB,2021-10-05 15:00:00.000,30
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,EB,2021-10-05 16:00:00.000,1
+29,Johnson St,East,Blanshard St,EW,EB,2021-10-05 16:00:00.000,26
+39,Wale Rd,West,Island Hwy,EW,EB,2021-10-05 16:00:00.000,26
+52,Pandora Ave,East,Cook St,EW,EB,2021-10-05 16:00:00.000,4
+3,E&N Rail Trail,North,Esquimalt Rd,NS,NB,2021-10-05 16:00:00.000,42
+4,Galloping Goose Regional Trail,South,Information Booth at Switch Bridge,NS,NB,2021-10-05 16:00:00.000,139
+5,Lochside Regional Trail,South,McKenzie Ave,NS,NB,2021-10-05 16:00:00.000,49
+22,Lochside Dr,South,Royal Oak Dr,NS,NB,2021-10-05 16:00:00.000,14
+23,Fifth St,South,Ocean Ave,NS,NB,2021-10-05 16:00:00.000,11
+55,Vancouver St,South,Caledonia Ave,NS,NB,2021-10-05 16:00:00.000,63
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,EB,2021-10-05 17:00:00.000,0
+29,Johnson St,East,Blanshard St,EW,EB,2021-10-05 17:00:00.000,43
+39,Wale Rd,West,Island Hwy,EW,EB,2021-10-05 17:00:00.000,10
+52,Pandora Ave,East,Cook St,EW,EB,2021-10-05 17:00:00.000,3
+3,E&N Rail Trail,North,Esquimalt Rd,NS,NB,2021-10-05 17:00:00.000,40
+4,Galloping Goose Regional Trail,South,Information Booth at Switch Bridge,NS,NB,2021-10-05 17:00:00.000,153
+5,Lochside Regional Trail,South,McKenzie Ave,NS,NB,2021-10-05 17:00:00.000,61
+22,Lochside Dr,South,Royal Oak Dr,NS,NB,2021-10-05 17:00:00.000,13
+23,Fifth St,South,Ocean Ave,NS,NB,2021-10-05 17:00:00.000,4
+55,Vancouver St,South,Caledonia Ave,NS,NB,2021-10-05 17:00:00.000,96
+12,Haultain St,West,Forbes St,EW,EB,2021-10-06 07:00:00.000,37
+18,Oak Bay Ave,East,Foul Bay Rd,EW,EB,2021-10-06 07:00:00.000,9
+28,Pandora St,East,Blanshard St,EW,EB,2021-10-06 07:00:00.000,23
+42,Sooke Rd,North,Otter Point Rd,EW,EB,2021-10-06 07:00:00.000,2
+60,E&N Rail Trail,West,Atkins Rd,EW,EB,2021-10-06 07:00:00.000,26
+1,Wharf St,North,Fort St,NS,NB,2021-10-06 07:00:00.000,66
+14,Vancouver St,South,Fort St,NS,NB,2021-10-06 07:00:00.000,34
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,NB,2021-10-06 07:00:00.000,45
+48,Lochside Regional Trail ,South,Quadra St,NS,NB,2021-10-06 07:00:00.000,46
+12,Haultain St,West,Forbes St,EW,EB,2021-10-06 08:00:00.000,44
+18,Oak Bay Ave,East,Foul Bay Rd,EW,EB,2021-10-06 08:00:00.000,18
+28,Pandora St,East,Blanshard St,EW,EB,2021-10-06 08:00:00.000,41
+42,Sooke Rd,North,Otter Point Rd,EW,EB,2021-10-06 08:00:00.000,2
+60,E&N Rail Trail,West,Atkins Rd,EW,EB,2021-10-06 08:00:00.000,11
+1,Wharf St,North,Fort St,NS,NB,2021-10-06 08:00:00.000,99
+14,Vancouver St,South,Fort St,NS,NB,2021-10-06 08:00:00.000,77
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,NB,2021-10-06 08:00:00.000,150
+48,Lochside Regional Trail ,South,Quadra St,NS,NB,2021-10-06 08:00:00.000,89
+12,Haultain St,West,Forbes St,EW,EB,2021-10-06 15:00:00.000,32
+18,Oak Bay Ave,East,Foul Bay Rd,EW,EB,2021-10-06 15:00:00.000,12
+28,Pandora St,East,Blanshard St,EW,EB,2021-10-06 15:00:00.000,54
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,EB,2021-10-06 15:00:00.000,56
+35,McKenzie Ave,East,Shelbourne St,EW,EB,2021-10-06 15:00:00.000,16
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,EB,2021-10-06 15:00:00.000,9
+40,Esquimalt Rd,West,Lampson St,EW,EB,2021-10-06 15:00:00.000,21
+42,Sooke Rd,North,Otter Point Rd,EW,EB,2021-10-06 15:00:00.000,2
+1,Wharf St,North,Fort St,NS,NB,2021-10-06 15:00:00.000,79
+8,Galloping Goose Regional Trail,South,Selkirk Trestle,NS,NB,2021-10-06 15:00:00.000,103
+14,Vancouver St,South,Fort St,NS,NB,2021-10-06 15:00:00.000,29
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,NB,2021-10-06 15:00:00.000,27
+48,Lochside Regional Trail ,South,Quadra St,NS,NB,2021-10-06 15:00:00.000,46
+12,Haultain St,West,Forbes St,EW,EB,2021-10-06 16:00:00.000,30
+18,Oak Bay Ave,East,Foul Bay Rd,EW,EB,2021-10-06 16:00:00.000,23
+28,Pandora St,East,Blanshard St,EW,EB,2021-10-06 16:00:00.000,83
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,EB,2021-10-06 16:00:00.000,48
+35,McKenzie Ave,East,Shelbourne St,EW,EB,2021-10-06 16:00:00.000,14
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,EB,2021-10-06 16:00:00.000,7
+40,Esquimalt Rd,West,Lampson St,EW,EB,2021-10-06 16:00:00.000,31
+42,Sooke Rd,North,Otter Point Rd,EW,EB,2021-10-06 16:00:00.000,0
+1,Wharf St,North,Fort St,NS,NB,2021-10-06 16:00:00.000,119
+8,Galloping Goose Regional Trail,South,Selkirk Trestle,NS,NB,2021-10-06 16:00:00.000,147
+14,Vancouver St,South,Fort St,NS,NB,2021-10-06 16:00:00.000,33
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,NB,2021-10-06 16:00:00.000,24
+48,Lochside Regional Trail ,South,Quadra St,NS,NB,2021-10-06 16:00:00.000,51
+12,Haultain St,West,Forbes St,EW,EB,2021-10-06 17:00:00.000,47
+18,Oak Bay Ave,East,Foul Bay Rd,EW,EB,2021-10-06 17:00:00.000,21
+28,Pandora St,East,Blanshard St,EW,EB,2021-10-06 17:00:00.000,73
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,EB,2021-10-06 17:00:00.000,37
+35,McKenzie Ave,East,Shelbourne St,EW,EB,2021-10-06 17:00:00.000,16
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,EB,2021-10-06 17:00:00.000,5
+40,Esquimalt Rd,West,Lampson St,EW,EB,2021-10-06 17:00:00.000,15
+42,Sooke Rd,North,Otter Point Rd,EW,EB,2021-10-06 17:00:00.000,0
+1,Wharf St,North,Fort St,NS,NB,2021-10-06 17:00:00.000,100
+8,Galloping Goose Regional Trail,South,Selkirk Trestle,NS,NB,2021-10-06 17:00:00.000,128
+14,Vancouver St,South,Fort St,NS,NB,2021-10-06 17:00:00.000,48
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,NB,2021-10-06 17:00:00.000,28
+48,Lochside Regional Trail ,South,Quadra St,NS,NB,2021-10-06 17:00:00.000,55
+2,Johnson St Bridge,West,Wharf St,EW,EB,2021-10-07 07:00:00.000,91
+15,Humboldt St,East,Blanshard St,EW,EB,2021-10-07 07:00:00.000,14
+19,Dallas Rd,East,Cook St,EW,EB,2021-10-07 07:00:00.000,14
+37,Gorge Rd,West,Jutland Rd,EW,EB,2021-10-07 07:00:00.000,22
+46,Sooke Rd,West,Sooke River Rd,EW,EB,2021-10-07 07:00:00.000,5
+7,E&N Rail Trail,South,Portage Park Trail,NS,NB,2021-10-07 07:00:00.000,19
+24,Lochside Regional Trail,South,Ardwell Ave,NS,NB,2021-10-07 07:00:00.000,4
+36,Shelbourne St,North,Pear St,NS,NB,2021-10-07 07:00:00.000,7
+45,University Dr,South,Ring Rd,NS,NB,2021-10-07 07:00:00.000,45
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,NB,2021-10-07 07:00:00.000,11
+2,Johnson St Bridge,West,Wharf St,EW,EB,2021-10-07 08:00:00.000,148
+15,Humboldt St,East,Blanshard St,EW,EB,2021-10-07 08:00:00.000,8
+19,Dallas Rd,East,Cook St,EW,EB,2021-10-07 08:00:00.000,13
+37,Gorge Rd,West,Jutland Rd,EW,EB,2021-10-07 08:00:00.000,35
+46,Sooke Rd,West,Sooke River Rd,EW,EB,2021-10-07 08:00:00.000,11
+7,E&N Rail Trail,South,Portage Park Trail,NS,NB,2021-10-07 08:00:00.000,45
+24,Lochside Regional Trail,South,Ardwell Ave,NS,NB,2021-10-07 08:00:00.000,55
+36,Shelbourne St,North,Pear St,NS,NB,2021-10-07 08:00:00.000,8
+45,University Dr,South,Ring Rd,NS,NB,2021-10-07 08:00:00.000,197
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,NB,2021-10-07 08:00:00.000,18
+2,Johnson St Bridge,West,Wharf St,EW,EB,2021-10-07 15:00:00.000,150
+15,Humboldt St,East,Blanshard St,EW,EB,2021-10-07 15:00:00.000,25
+19,Dallas Rd,East,Cook St,EW,EB,2021-10-07 15:00:00.000,46
+20,Fort St,North,Oak Bay Ave,EW,EB,2021-10-07 15:00:00.000,22
+46,Sooke Rd,West,Sooke River Rd,EW,EB,2021-10-07 15:00:00.000,5
+58,Galloping Goose ,East,Burnside Rd W,EW,EB,2021-10-07 15:00:00.000,25
+7,E&N Rail Trail,South,Portage Park Trail,NS,NB,2021-10-07 15:00:00.000,79
+24,Lochside Regional Trail,South,Ardwell Ave,NS,NB,2021-10-07 15:00:00.000,15
+31,Lochside Regional Trail,North,Switch Bridge,NS,NB,2021-10-07 15:00:00.000,63
+36,Shelbourne St,North,Pear St,NS,NB,2021-10-07 15:00:00.000,7
+45,University Dr,South,Ring Rd,NS,NB,2021-10-07 15:00:00.000,31
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,NB,2021-10-07 15:00:00.000,29
+2,Johnson St Bridge,West,Wharf St,EW,EB,2021-10-07 16:00:00.000,181
+15,Humboldt St,East,Blanshard St,EW,EB,2021-10-07 16:00:00.000,39
+19,Dallas Rd,East,Cook St,EW,EB,2021-10-07 16:00:00.000,59
+20,Fort St,North,Oak Bay Ave,EW,EB,2021-10-07 16:00:00.000,35
+46,Sooke Rd,West,Sooke River Rd,EW,EB,2021-10-07 16:00:00.000,3
+58,Galloping Goose ,East,Burnside Rd W,EW,EB,2021-10-07 16:00:00.000,42
+7,E&N Rail Trail,South,Portage Park Trail,NS,NB,2021-10-07 16:00:00.000,132
+24,Lochside Regional Trail,South,Ardwell Ave,NS,NB,2021-10-07 16:00:00.000,7
+31,Lochside Regional Trail,North,Switch Bridge,NS,NB,2021-10-07 16:00:00.000,147
+36,Shelbourne St,North,Pear St,NS,NB,2021-10-07 16:00:00.000,8
+45,University Dr,South,Ring Rd,NS,NB,2021-10-07 16:00:00.000,24
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,NB,2021-10-07 16:00:00.000,49
+2,Johnson St Bridge,West,Wharf St,EW,EB,2021-10-07 17:00:00.000,138
+15,Humboldt St,East,Blanshard St,EW,EB,2021-10-07 17:00:00.000,41
+19,Dallas Rd,East,Cook St,EW,EB,2021-10-07 17:00:00.000,55
+20,Fort St,North,Oak Bay Ave,EW,EB,2021-10-07 17:00:00.000,44
+46,Sooke Rd,West,Sooke River Rd,EW,EB,2021-10-07 17:00:00.000,1
+58,Galloping Goose ,East,Burnside Rd W,EW,EB,2021-10-07 17:00:00.000,46
+7,E&N Rail Trail,South,Portage Park Trail,NS,NB,2021-10-07 17:00:00.000,77
+24,Lochside Regional Trail,South,Ardwell Ave,NS,NB,2021-10-07 17:00:00.000,9
+31,Lochside Regional Trail,North,Switch Bridge,NS,NB,2021-10-07 17:00:00.000,125
+36,Shelbourne St,North,Pear St,NS,NB,2021-10-07 17:00:00.000,10
+45,University Dr,South,Ring Rd,NS,NB,2021-10-07 17:00:00.000,30
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,NB,2021-10-07 17:00:00.000,54
+12,Haultain St,West,Forbes St,EW,EB,2022-05-10 07:00:00.000,41
+18,Oak Bay Ave,East,Foul Bay Rd,EW,EB,2022-05-10 07:00:00.000,10
+20,Fort St,North,Oak Bay Ave,EW,EB,2022-05-10 07:00:00.000,36
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,EB,2022-05-10 07:00:00.000,1
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,EB,2022-05-10 07:00:00.000,25
+41,Craigflower Rd,East,Admirals Rd,EW,EB,2022-05-10 07:00:00.000,11
+43,Galloping Goose Regional Trail,South,E&N Rail Trail,EW,EB,2022-05-10 07:00:00.000,135
+51,Lansdowne Rd,West,Richmond Rd,EW,EB,2022-05-10 07:00:00.000,20
+6,Interuban Rd,North,Burnside Rd W,NS,NB,2022-05-10 07:00:00.000,12
+14,Vancouver St,South,Fort St,NS,NB,2022-05-10 07:00:00.000,49
+22,Lochside Dr,South,Royal Oak Dr,NS,NB,2022-05-10 07:00:00.000,18
+31,Lochside Regional Trail,North,Switch Bridge,NS,NB,2022-05-10 07:00:00.000,64
+45,University Dr,South,Ring Rd,NS,NB,2022-05-10 07:00:00.000,45
+48,Lochside Regional Trail ,South,Quadra St,NS,NB,2022-05-10 07:00:00.000,50
+12,Haultain St,West,Forbes St,EW,EB,2022-05-10 08:00:00.000,55
+18,Oak Bay Ave,East,Foul Bay Rd,EW,EB,2022-05-10 08:00:00.000,9
+20,Fort St,North,Oak Bay Ave,EW,EB,2022-05-10 08:00:00.000,52
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,EB,2022-05-10 08:00:00.000,3
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,EB,2022-05-10 08:00:00.000,14
+41,Craigflower Rd,East,Admirals Rd,EW,EB,2022-05-10 08:00:00.000,11
+43,Galloping Goose Regional Trail,South,E&N Rail Trail,EW,EB,2022-05-10 08:00:00.000,64
+51,Lansdowne Rd,West,Richmond Rd,EW,EB,2022-05-10 08:00:00.000,33
+6,Interuban Rd,North,Burnside Rd W,NS,NB,2022-05-10 08:00:00.000,13
+14,Vancouver St,South,Fort St,NS,NB,2022-05-10 08:00:00.000,82
+22,Lochside Dr,South,Royal Oak Dr,NS,NB,2022-05-10 08:00:00.000,25
+31,Lochside Regional Trail,North,Switch Bridge,NS,NB,2022-05-10 08:00:00.000,91
+45,University Dr,South,Ring Rd,NS,NB,2022-05-10 08:00:00.000,125
+48,Lochside Regional Trail ,South,Quadra St,NS,NB,2022-05-10 08:00:00.000,76
+12,Haultain St,West,Forbes St,EW,EB,2022-05-10 15:00:00.000,40
+18,Oak Bay Ave,East,Foul Bay Rd,EW,EB,2022-05-10 15:00:00.000,18
+20,Fort St,North,Oak Bay Ave,EW,EB,2022-05-10 15:00:00.000,22
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,EB,2022-05-10 15:00:00.000,3
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,EB,2022-05-10 15:00:00.000,14
+3,E&N Rail Trail,North,Esquimalt Rd,NS,NB,2022-05-10 15:00:00.000,43
+14,Vancouver St,South,Fort St,NS,NB,2022-05-10 15:00:00.000,56
+22,Lochside Dr,South,Royal Oak Dr,NS,NB,2022-05-10 15:00:00.000,30
+31,Lochside Regional Trail,North,Switch Bridge,NS,NB,2022-05-10 15:00:00.000,95
+45,University Dr,South,Ring Rd,NS,NB,2022-05-10 15:00:00.000,25
+48,Lochside Regional Trail ,South,Quadra St,NS,NB,2022-05-10 15:00:00.000,69
+12,Haultain St,West,Forbes St,EW,EB,2022-05-10 16:00:00.000,58
+18,Oak Bay Ave,East,Foul Bay Rd,EW,EB,2022-05-10 16:00:00.000,23
+20,Fort St,North,Oak Bay Ave,EW,EB,2022-05-10 16:00:00.000,43
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,EB,2022-05-10 16:00:00.000,3
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,EB,2022-05-10 16:00:00.000,11
+3,E&N Rail Trail,North,Esquimalt Rd,NS,NB,2022-05-10 16:00:00.000,86
+14,Vancouver St,South,Fort St,NS,NB,2022-05-10 16:00:00.000,67
+22,Lochside Dr,South,Royal Oak Dr,NS,NB,2022-05-10 16:00:00.000,58
+31,Lochside Regional Trail,North,Switch Bridge,NS,NB,2022-05-10 16:00:00.000,172
+45,University Dr,South,Ring Rd,NS,NB,2022-05-10 16:00:00.000,52
+48,Lochside Regional Trail ,South,Quadra St,NS,NB,2022-05-10 16:00:00.000,112
+12,Haultain St,West,Forbes St,EW,EB,2022-05-10 17:00:00.000,70
+18,Oak Bay Ave,East,Foul Bay Rd,EW,EB,2022-05-10 17:00:00.000,17
+20,Fort St,North,Oak Bay Ave,EW,EB,2022-05-10 17:00:00.000,47
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,EB,2022-05-10 17:00:00.000,0
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,EB,2022-05-10 17:00:00.000,7
+3,E&N Rail Trail,North,Esquimalt Rd,NS,NB,2022-05-10 17:00:00.000,81
+14,Vancouver St,South,Fort St,NS,NB,2022-05-10 17:00:00.000,61
+22,Lochside Dr,South,Royal Oak Dr,NS,NB,2022-05-10 17:00:00.000,51
+31,Lochside Regional Trail,North,Switch Bridge,NS,NB,2022-05-10 17:00:00.000,185
+45,University Dr,South,Ring Rd,NS,NB,2022-05-10 17:00:00.000,44
+48,Lochside Regional Trail ,South,Quadra St,NS,NB,2022-05-10 17:00:00.000,134
+15,Humboldt St,East,Blanshard St,EW,EB,2022-05-11 07:00:00.000,13
+17,McKenzie Ave,East,Gordon Head Rd,EW,EB,2022-05-11 07:00:00.000,23
+27,Richardson St,East,Cook St,EW,EB,2022-05-11 07:00:00.000,5
+28,Pandora St,East,Blanshard St,EW,EB,2022-05-11 07:00:00.000,51
+3,E&N Rail Trail,North,Esquimalt Rd,NS,NB,2022-05-11 07:00:00.000,36
+5,Lochside Regional Trail,South,McKenzie Ave,NS,NB,2022-05-11 07:00:00.000,47
+11,Blanshard St,South,Bay St,NS,NB,2022-05-11 07:00:00.000,5
+13,Cook St,South,Fort St,NS,NB,2022-05-11 07:00:00.000,18
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,NB,2022-05-11 07:00:00.000,44
+24,Lochside Regional Trail,South,Ardwell Ave,NS,NB,2022-05-11 07:00:00.000,5
+33,Admirals Rd,South,Colville Rd,NS,NB,2022-05-11 07:00:00.000,11
+15,Humboldt St,East,Blanshard St,EW,EB,2022-05-11 08:00:00.000,15
+17,McKenzie Ave,East,Gordon Head Rd,EW,EB,2022-05-11 08:00:00.000,78
+27,Richardson St,East,Cook St,EW,EB,2022-05-11 08:00:00.000,11
+28,Pandora St,East,Blanshard St,EW,EB,2022-05-11 08:00:00.000,55
+3,E&N Rail Trail,North,Esquimalt Rd,NS,NB,2022-05-11 08:00:00.000,25
+5,Lochside Regional Trail,South,McKenzie Ave,NS,NB,2022-05-11 08:00:00.000,48
+11,Blanshard St,South,Bay St,NS,NB,2022-05-11 08:00:00.000,1
+13,Cook St,South,Fort St,NS,NB,2022-05-11 08:00:00.000,21
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,NB,2022-05-11 08:00:00.000,83
+24,Lochside Regional Trail,South,Ardwell Ave,NS,NB,2022-05-11 08:00:00.000,18
+33,Admirals Rd,South,Colville Rd,NS,NB,2022-05-11 08:00:00.000,15
+15,Humboldt St,East,Blanshard St,EW,EB,2022-05-11 15:00:00.000,15
+17,McKenzie Ave,East,Gordon Head Rd,EW,EB,2022-05-11 15:00:00.000,12
+28,Pandora St,East,Blanshard St,EW,EB,2022-05-11 15:00:00.000,73
+39,Wale Rd,West,Island Hwy,EW,EB,2022-05-11 15:00:00.000,23
+40,Esquimalt Rd,West,Lampson St,EW,EB,2022-05-11 15:00:00.000,34
+42,Sooke Rd,North,Otter Point Rd,EW,EB,2022-05-11 15:00:00.000,4
+43,Galloping Goose Regional Trail,South,E&N Rail Trail,EW,EB,2022-05-11 15:00:00.000,38
+5,Lochside Regional Trail,South,McKenzie Ave,NS,NB,2022-05-11 15:00:00.000,47
+11,Blanshard St,South,Bay St,NS,NB,2022-05-11 15:00:00.000,5
+13,Cook St,South,Fort St,NS,NB,2022-05-11 15:00:00.000,9
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,NB,2022-05-11 15:00:00.000,18
+24,Lochside Regional Trail,South,Ardwell Ave,NS,NB,2022-05-11 15:00:00.000,7
+33,Admirals Rd,South,Colville Rd,NS,NB,2022-05-11 15:00:00.000,20
+15,Humboldt St,East,Blanshard St,EW,EB,2022-05-11 16:00:00.000,58
+17,McKenzie Ave,East,Gordon Head Rd,EW,EB,2022-05-11 16:00:00.000,18
+28,Pandora St,East,Blanshard St,EW,EB,2022-05-11 16:00:00.000,115
+39,Wale Rd,West,Island Hwy,EW,EB,2022-05-11 16:00:00.000,31
+40,Esquimalt Rd,West,Lampson St,EW,EB,2022-05-11 16:00:00.000,40
+42,Sooke Rd,North,Otter Point Rd,EW,EB,2022-05-11 16:00:00.000,0
+43,Galloping Goose Regional Trail,South,E&N Rail Trail,EW,EB,2022-05-11 16:00:00.000,40
+5,Lochside Regional Trail,South,McKenzie Ave,NS,NB,2022-05-11 16:00:00.000,86
+11,Blanshard St,South,Bay St,NS,NB,2022-05-11 16:00:00.000,12
+13,Cook St,South,Fort St,NS,NB,2022-05-11 16:00:00.000,16
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,NB,2022-05-11 16:00:00.000,44
+24,Lochside Regional Trail,South,Ardwell Ave,NS,NB,2022-05-11 16:00:00.000,12
+33,Admirals Rd,South,Colville Rd,NS,NB,2022-05-11 16:00:00.000,15
+15,Humboldt St,East,Blanshard St,EW,EB,2022-05-11 17:00:00.000,44
+17,McKenzie Ave,East,Gordon Head Rd,EW,EB,2022-05-11 17:00:00.000,36
+28,Pandora St,East,Blanshard St,EW,EB,2022-05-11 17:00:00.000,114
+39,Wale Rd,West,Island Hwy,EW,EB,2022-05-11 17:00:00.000,25
+40,Esquimalt Rd,West,Lampson St,EW,EB,2022-05-11 17:00:00.000,17
+42,Sooke Rd,North,Otter Point Rd,EW,EB,2022-05-11 17:00:00.000,0
+43,Galloping Goose Regional Trail,South,E&N Rail Trail,EW,EB,2022-05-11 17:00:00.000,26
+5,Lochside Regional Trail,South,McKenzie Ave,NS,NB,2022-05-11 17:00:00.000,90
+11,Blanshard St,South,Bay St,NS,NB,2022-05-11 17:00:00.000,11
+13,Cook St,South,Fort St,NS,NB,2022-05-11 17:00:00.000,10
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,NB,2022-05-11 17:00:00.000,19
+24,Lochside Regional Trail,South,Ardwell Ave,NS,NB,2022-05-11 17:00:00.000,9
+33,Admirals Rd,South,Colville Rd,NS,NB,2022-05-11 17:00:00.000,17
+2,Johnson St Bridge,West,Wharf St,EW,EB,2022-05-12 07:00:00.000,228
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,EB,2022-05-12 07:00:00.000,71
+35,McKenzie Ave,East,Shelbourne St,EW,EB,2022-05-12 07:00:00.000,12
+40,Esquimalt Rd,West,Lampson St,EW,EB,2022-05-12 07:00:00.000,14
+57,Cadboro Bay Rd,East,Foul Bay Rd,EW,EB,2022-05-12 07:00:00.000,16
+7,E&N Rail Trail,South,Portage Park Trail,NS,NB,2022-05-12 07:00:00.000,17
+23,Fifth St,South,Ocean Ave,NS,NB,2022-05-12 07:00:00.000,4
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,NB,2022-05-12 07:00:00.000,12
+55,Vancouver St,South,Caledonia Ave,NS,NB,2022-05-12 07:00:00.000,24
+2,Johnson St Bridge,West,Wharf St,EW,EB,2022-05-12 08:00:00.000,296
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,EB,2022-05-12 08:00:00.000,72
+35,McKenzie Ave,East,Shelbourne St,EW,EB,2022-05-12 08:00:00.000,27
+40,Esquimalt Rd,West,Lampson St,EW,EB,2022-05-12 08:00:00.000,15
+57,Cadboro Bay Rd,East,Foul Bay Rd,EW,EB,2022-05-12 08:00:00.000,17
+7,E&N Rail Trail,South,Portage Park Trail,NS,NB,2022-05-12 08:00:00.000,20
+23,Fifth St,South,Ocean Ave,NS,NB,2022-05-12 08:00:00.000,1
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,NB,2022-05-12 08:00:00.000,13
+55,Vancouver St,South,Caledonia Ave,NS,NB,2022-05-12 08:00:00.000,47
+2,Johnson St Bridge,West,Wharf St,EW,EB,2022-05-12 15:00:00.000,106
+27,Richardson St,East,Cook St,EW,EB,2022-05-12 15:00:00.000,12
+29,Johnson St,East,Blanshard St,EW,EB,2022-05-12 15:00:00.000,15
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,EB,2022-05-12 15:00:00.000,26
+35,McKenzie Ave,East,Shelbourne St,EW,EB,2022-05-12 15:00:00.000,7
+37,Gorge Rd,West,Jutland Rd,EW,EB,2022-05-12 15:00:00.000,17
+46,Sooke Rd,West,Sooke River Rd,EW,EB,2022-05-12 15:00:00.000,0
+57,Cadboro Bay Rd,East,Foul Bay Rd,EW,EB,2022-05-12 15:00:00.000,6
+4,Galloping Goose Regional Trail,South,Information Booth at Switch Bridge,NS,NB,2022-05-12 15:00:00.000,62
+7,E&N Rail Trail,South,Portage Park Trail,NS,NB,2022-05-12 15:00:00.000,42
+23,Fifth St,South,Ocean Ave,NS,NB,2022-05-12 15:00:00.000,2
+55,Vancouver St,South,Caledonia Ave,NS,NB,2022-05-12 15:00:00.000,71
+2,Johnson St Bridge,West,Wharf St,EW,EB,2022-05-12 16:00:00.000,125
+27,Richardson St,East,Cook St,EW,EB,2022-05-12 16:00:00.000,28
+29,Johnson St,East,Blanshard St,EW,EB,2022-05-12 16:00:00.000,38
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,EB,2022-05-12 16:00:00.000,36
+35,McKenzie Ave,East,Shelbourne St,EW,EB,2022-05-12 16:00:00.000,14
+37,Gorge Rd,West,Jutland Rd,EW,EB,2022-05-12 16:00:00.000,20
+46,Sooke Rd,West,Sooke River Rd,EW,EB,2022-05-12 16:00:00.000,0
+57,Cadboro Bay Rd,East,Foul Bay Rd,EW,EB,2022-05-12 16:00:00.000,15
+4,Galloping Goose Regional Trail,South,Information Booth at Switch Bridge,NS,NB,2022-05-12 16:00:00.000,130
+7,E&N Rail Trail,South,Portage Park Trail,NS,NB,2022-05-12 16:00:00.000,109
+23,Fifth St,South,Ocean Ave,NS,NB,2022-05-12 16:00:00.000,2
+55,Vancouver St,South,Caledonia Ave,NS,NB,2022-05-12 16:00:00.000,119
+2,Johnson St Bridge,West,Wharf St,EW,EB,2022-05-12 17:00:00.000,103
+27,Richardson St,East,Cook St,EW,EB,2022-05-12 17:00:00.000,32
+29,Johnson St,East,Blanshard St,EW,EB,2022-05-12 17:00:00.000,29
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,EB,2022-05-12 17:00:00.000,33
+35,McKenzie Ave,East,Shelbourne St,EW,EB,2022-05-12 17:00:00.000,15
+37,Gorge Rd,West,Jutland Rd,EW,EB,2022-05-12 17:00:00.000,29
+46,Sooke Rd,West,Sooke River Rd,EW,EB,2022-05-12 17:00:00.000,0
+57,Cadboro Bay Rd,East,Foul Bay Rd,EW,EB,2022-05-12 17:00:00.000,23
+4,Galloping Goose Regional Trail,South,Information Booth at Switch Bridge,NS,NB,2022-05-12 17:00:00.000,123
+7,E&N Rail Trail,South,Portage Park Trail,NS,NB,2022-05-12 17:00:00.000,39
+23,Fifth St,South,Ocean Ave,NS,NB,2022-05-12 17:00:00.000,3
+55,Vancouver St,South,Caledonia Ave,NS,NB,2022-05-12 17:00:00.000,105
 35,McKenzie Ave,East,Shelbourne St,EW,WB,2011-10-04 07:00:00.000,16
 39,Wale Rd,West,Island Hwy,EW,WB,2011-10-04 07:00:00.000,2
 5,Lochside Regional Trail,South,McKenzie Ave,NS,SB,2011-10-04 07:00:00.000,96
@@ -5293,3 +5630,340 @@ countID,onStreet,location,xStreet,countDirection,heading,countStart,totalCount
 24,Lochside Regional Trail,South,Ardwell Ave,NS,SB,2021-05-20 17:00:00.000,10
 31,Lochside Regional Trail,North,Switch Bridge,NS,SB,2021-05-20 17:00:00.000,94
 36,Shelbourne St,North,Pear St,NS,SB,2021-05-20 17:00:00.000,7
+20,Fort St,North,Oak Bay Ave,EW,WB,2021-10-05 07:00:00.000,25
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,WB,2021-10-05 07:00:00.000,0
+29,Johnson St,East,Blanshard St,EW,WB,2021-10-05 07:00:00.000,0
+35,McKenzie Ave,East,Shelbourne St,EW,WB,2021-10-05 07:00:00.000,11
+5,Lochside Regional Trail,South,McKenzie Ave,NS,SB,2021-10-05 07:00:00.000,51
+22,Lochside Dr,South,Royal Oak Dr,NS,SB,2021-10-05 07:00:00.000,26
+23,Fifth St,South,Ocean Ave,NS,SB,2021-10-05 07:00:00.000,3
+47,Glanford Ave,North,McKenzie Ave,NS,SB,2021-10-05 07:00:00.000,8
+55,Vancouver St,South,Caledonia Ave,NS,SB,2021-10-05 07:00:00.000,50
+20,Fort St,North,Oak Bay Ave,EW,WB,2021-10-05 08:00:00.000,29
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,WB,2021-10-05 08:00:00.000,0
+29,Johnson St,East,Blanshard St,EW,WB,2021-10-05 08:00:00.000,1
+35,McKenzie Ave,East,Shelbourne St,EW,WB,2021-10-05 08:00:00.000,6
+5,Lochside Regional Trail,South,McKenzie Ave,NS,SB,2021-10-05 08:00:00.000,38
+22,Lochside Dr,South,Royal Oak Dr,NS,SB,2021-10-05 08:00:00.000,15
+23,Fifth St,South,Ocean Ave,NS,SB,2021-10-05 08:00:00.000,0
+47,Glanford Ave,North,McKenzie Ave,NS,SB,2021-10-05 08:00:00.000,5
+55,Vancouver St,South,Caledonia Ave,NS,SB,2021-10-05 08:00:00.000,112
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,WB,2021-10-05 15:00:00.000,0
+29,Johnson St,East,Blanshard St,EW,WB,2021-10-05 15:00:00.000,1
+39,Wale Rd,West,Island Hwy,EW,WB,2021-10-05 15:00:00.000,9
+52,Pandora Ave,East,Cook St,EW,WB,2021-10-05 15:00:00.000,21
+3,E&N Rail Trail,North,Esquimalt Rd,NS,SB,2021-10-05 15:00:00.000,18
+4,Galloping Goose Regional Trail,South,Information Booth at Switch Bridge,NS,SB,2021-10-05 15:00:00.000,79
+5,Lochside Regional Trail,South,McKenzie Ave,NS,SB,2021-10-05 15:00:00.000,39
+22,Lochside Dr,South,Royal Oak Dr,NS,SB,2021-10-05 15:00:00.000,10
+23,Fifth St,South,Ocean Ave,NS,SB,2021-10-05 15:00:00.000,3
+55,Vancouver St,South,Caledonia Ave,NS,SB,2021-10-05 15:00:00.000,38
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,WB,2021-10-05 16:00:00.000,0
+29,Johnson St,East,Blanshard St,EW,WB,2021-10-05 16:00:00.000,7
+39,Wale Rd,West,Island Hwy,EW,WB,2021-10-05 16:00:00.000,16
+52,Pandora Ave,East,Cook St,EW,WB,2021-10-05 16:00:00.000,33
+3,E&N Rail Trail,North,Esquimalt Rd,NS,SB,2021-10-05 16:00:00.000,33
+4,Galloping Goose Regional Trail,South,Information Booth at Switch Bridge,NS,SB,2021-10-05 16:00:00.000,90
+5,Lochside Regional Trail,South,McKenzie Ave,NS,SB,2021-10-05 16:00:00.000,52
+22,Lochside Dr,South,Royal Oak Dr,NS,SB,2021-10-05 16:00:00.000,20
+23,Fifth St,South,Ocean Ave,NS,SB,2021-10-05 16:00:00.000,7
+55,Vancouver St,South,Caledonia Ave,NS,SB,2021-10-05 16:00:00.000,34
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,WB,2021-10-05 17:00:00.000,0
+29,Johnson St,East,Blanshard St,EW,WB,2021-10-05 17:00:00.000,3
+39,Wale Rd,West,Island Hwy,EW,WB,2021-10-05 17:00:00.000,8
+52,Pandora Ave,East,Cook St,EW,WB,2021-10-05 17:00:00.000,26
+3,E&N Rail Trail,North,Esquimalt Rd,NS,SB,2021-10-05 17:00:00.000,24
+4,Galloping Goose Regional Trail,South,Information Booth at Switch Bridge,NS,SB,2021-10-05 17:00:00.000,73
+5,Lochside Regional Trail,South,McKenzie Ave,NS,SB,2021-10-05 17:00:00.000,41
+22,Lochside Dr,South,Royal Oak Dr,NS,SB,2021-10-05 17:00:00.000,31
+23,Fifth St,South,Ocean Ave,NS,SB,2021-10-05 17:00:00.000,4
+55,Vancouver St,South,Caledonia Ave,NS,SB,2021-10-05 17:00:00.000,51
+12,Haultain St,West,Forbes St,EW,WB,2021-10-06 07:00:00.000,32
+18,Oak Bay Ave,East,Foul Bay Rd,EW,WB,2021-10-06 07:00:00.000,12
+28,Pandora St,East,Blanshard St,EW,WB,2021-10-06 07:00:00.000,79
+42,Sooke Rd,North,Otter Point Rd,EW,WB,2021-10-06 07:00:00.000,2
+60,E&N Rail Trail,West,Atkins Rd,EW,WB,2021-10-06 07:00:00.000,4
+1,Wharf St,North,Fort St,NS,SB,2021-10-06 07:00:00.000,97
+14,Vancouver St,South,Fort St,NS,SB,2021-10-06 07:00:00.000,20
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,SB,2021-10-06 07:00:00.000,23
+48,Lochside Regional Trail ,South,Quadra St,NS,SB,2021-10-06 07:00:00.000,60
+12,Haultain St,West,Forbes St,EW,WB,2021-10-06 08:00:00.000,48
+18,Oak Bay Ave,East,Foul Bay Rd,EW,WB,2021-10-06 08:00:00.000,22
+28,Pandora St,East,Blanshard St,EW,WB,2021-10-06 08:00:00.000,120
+42,Sooke Rd,North,Otter Point Rd,EW,WB,2021-10-06 08:00:00.000,3
+60,E&N Rail Trail,West,Atkins Rd,EW,WB,2021-10-06 08:00:00.000,5
+1,Wharf St,North,Fort St,NS,SB,2021-10-06 08:00:00.000,157
+14,Vancouver St,South,Fort St,NS,SB,2021-10-06 08:00:00.000,69
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,SB,2021-10-06 08:00:00.000,30
+48,Lochside Regional Trail ,South,Quadra St,NS,SB,2021-10-06 08:00:00.000,55
+12,Haultain St,West,Forbes St,EW,WB,2021-10-06 15:00:00.000,41
+18,Oak Bay Ave,East,Foul Bay Rd,EW,WB,2021-10-06 15:00:00.000,15
+28,Pandora St,East,Blanshard St,EW,WB,2021-10-06 15:00:00.000,74
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,WB,2021-10-06 15:00:00.000,48
+35,McKenzie Ave,East,Shelbourne St,EW,WB,2021-10-06 15:00:00.000,38
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,WB,2021-10-06 15:00:00.000,13
+40,Esquimalt Rd,West,Lampson St,EW,WB,2021-10-06 15:00:00.000,11
+42,Sooke Rd,North,Otter Point Rd,EW,WB,2021-10-06 15:00:00.000,1
+1,Wharf St,North,Fort St,NS,SB,2021-10-06 15:00:00.000,100
+8,Galloping Goose Regional Trail,South,Selkirk Trestle,NS,SB,2021-10-06 15:00:00.000,87
+14,Vancouver St,South,Fort St,NS,SB,2021-10-06 15:00:00.000,32
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,SB,2021-10-06 15:00:00.000,84
+48,Lochside Regional Trail ,South,Quadra St,NS,SB,2021-10-06 15:00:00.000,56
+12,Haultain St,West,Forbes St,EW,WB,2021-10-06 16:00:00.000,43
+18,Oak Bay Ave,East,Foul Bay Rd,EW,WB,2021-10-06 16:00:00.000,12
+28,Pandora St,East,Blanshard St,EW,WB,2021-10-06 16:00:00.000,67
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,WB,2021-10-06 16:00:00.000,100
+35,McKenzie Ave,East,Shelbourne St,EW,WB,2021-10-06 16:00:00.000,47
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,WB,2021-10-06 16:00:00.000,11
+40,Esquimalt Rd,West,Lampson St,EW,WB,2021-10-06 16:00:00.000,16
+42,Sooke Rd,North,Otter Point Rd,EW,WB,2021-10-06 16:00:00.000,0
+1,Wharf St,North,Fort St,NS,SB,2021-10-06 16:00:00.000,45
+8,Galloping Goose Regional Trail,South,Selkirk Trestle,NS,SB,2021-10-06 16:00:00.000,88
+14,Vancouver St,South,Fort St,NS,SB,2021-10-06 16:00:00.000,56
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,SB,2021-10-06 16:00:00.000,111
+48,Lochside Regional Trail ,South,Quadra St,NS,SB,2021-10-06 16:00:00.000,73
+12,Haultain St,West,Forbes St,EW,WB,2021-10-06 17:00:00.000,28
+18,Oak Bay Ave,East,Foul Bay Rd,EW,WB,2021-10-06 17:00:00.000,14
+28,Pandora St,East,Blanshard St,EW,WB,2021-10-06 17:00:00.000,60
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,WB,2021-10-06 17:00:00.000,91
+35,McKenzie Ave,East,Shelbourne St,EW,WB,2021-10-06 17:00:00.000,43
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,WB,2021-10-06 17:00:00.000,10
+40,Esquimalt Rd,West,Lampson St,EW,WB,2021-10-06 17:00:00.000,14
+42,Sooke Rd,North,Otter Point Rd,EW,WB,2021-10-06 17:00:00.000,0
+1,Wharf St,North,Fort St,NS,SB,2021-10-06 17:00:00.000,77
+8,Galloping Goose Regional Trail,South,Selkirk Trestle,NS,SB,2021-10-06 17:00:00.000,69
+14,Vancouver St,South,Fort St,NS,SB,2021-10-06 17:00:00.000,61
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,SB,2021-10-06 17:00:00.000,76
+48,Lochside Regional Trail ,South,Quadra St,NS,SB,2021-10-06 17:00:00.000,45
+2,Johnson St Bridge,West,Wharf St,EW,WB,2021-10-07 07:00:00.000,51
+15,Humboldt St,East,Blanshard St,EW,WB,2021-10-07 07:00:00.000,32
+19,Dallas Rd,East,Cook St,EW,WB,2021-10-07 07:00:00.000,8
+37,Gorge Rd,West,Jutland Rd,EW,WB,2021-10-07 07:00:00.000,8
+46,Sooke Rd,West,Sooke River Rd,EW,WB,2021-10-07 07:00:00.000,1
+7,E&N Rail Trail,South,Portage Park Trail,NS,SB,2021-10-07 07:00:00.000,131
+24,Lochside Regional Trail,South,Ardwell Ave,NS,SB,2021-10-07 07:00:00.000,0
+36,Shelbourne St,North,Pear St,NS,SB,2021-10-07 07:00:00.000,6
+45,University Dr,South,Ring Rd,NS,SB,2021-10-07 07:00:00.000,10
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,SB,2021-10-07 07:00:00.000,37
+2,Johnson St Bridge,West,Wharf St,EW,WB,2021-10-07 08:00:00.000,47
+15,Humboldt St,East,Blanshard St,EW,WB,2021-10-07 08:00:00.000,51
+19,Dallas Rd,East,Cook St,EW,WB,2021-10-07 08:00:00.000,36
+37,Gorge Rd,West,Jutland Rd,EW,WB,2021-10-07 08:00:00.000,10
+46,Sooke Rd,West,Sooke River Rd,EW,WB,2021-10-07 08:00:00.000,3
+7,E&N Rail Trail,South,Portage Park Trail,NS,SB,2021-10-07 08:00:00.000,48
+24,Lochside Regional Trail,South,Ardwell Ave,NS,SB,2021-10-07 08:00:00.000,9
+36,Shelbourne St,North,Pear St,NS,SB,2021-10-07 08:00:00.000,9
+45,University Dr,South,Ring Rd,NS,SB,2021-10-07 08:00:00.000,24
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,SB,2021-10-07 08:00:00.000,37
+2,Johnson St Bridge,West,Wharf St,EW,WB,2021-10-07 15:00:00.000,135
+15,Humboldt St,East,Blanshard St,EW,WB,2021-10-07 15:00:00.000,22
+19,Dallas Rd,East,Cook St,EW,WB,2021-10-07 15:00:00.000,51
+20,Fort St,North,Oak Bay Ave,EW,WB,2021-10-07 15:00:00.000,30
+46,Sooke Rd,West,Sooke River Rd,EW,WB,2021-10-07 15:00:00.000,12
+58,Galloping Goose ,East,Burnside Rd W,EW,WB,2021-10-07 15:00:00.000,44
+7,E&N Rail Trail,South,Portage Park Trail,NS,SB,2021-10-07 15:00:00.000,48
+24,Lochside Regional Trail,South,Ardwell Ave,NS,SB,2021-10-07 15:00:00.000,53
+31,Lochside Regional Trail,North,Switch Bridge,NS,SB,2021-10-07 15:00:00.000,81
+36,Shelbourne St,North,Pear St,NS,SB,2021-10-07 15:00:00.000,9
+45,University Dr,South,Ring Rd,NS,SB,2021-10-07 15:00:00.000,109
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,SB,2021-10-07 15:00:00.000,39
+2,Johnson St Bridge,West,Wharf St,EW,WB,2021-10-07 16:00:00.000,287
+15,Humboldt St,East,Blanshard St,EW,WB,2021-10-07 16:00:00.000,25
+19,Dallas Rd,East,Cook St,EW,WB,2021-10-07 16:00:00.000,47
+20,Fort St,North,Oak Bay Ave,EW,WB,2021-10-07 16:00:00.000,48
+46,Sooke Rd,West,Sooke River Rd,EW,WB,2021-10-07 16:00:00.000,1
+58,Galloping Goose ,East,Burnside Rd W,EW,WB,2021-10-07 16:00:00.000,41
+7,E&N Rail Trail,South,Portage Park Trail,NS,SB,2021-10-07 16:00:00.000,34
+24,Lochside Regional Trail,South,Ardwell Ave,NS,SB,2021-10-07 16:00:00.000,12
+31,Lochside Regional Trail,North,Switch Bridge,NS,SB,2021-10-07 16:00:00.000,109
+36,Shelbourne St,North,Pear St,NS,SB,2021-10-07 16:00:00.000,16
+45,University Dr,South,Ring Rd,NS,SB,2021-10-07 16:00:00.000,140
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,SB,2021-10-07 16:00:00.000,40
+2,Johnson St Bridge,West,Wharf St,EW,WB,2021-10-07 17:00:00.000,284
+15,Humboldt St,East,Blanshard St,EW,WB,2021-10-07 17:00:00.000,19
+19,Dallas Rd,East,Cook St,EW,WB,2021-10-07 17:00:00.000,33
+20,Fort St,North,Oak Bay Ave,EW,WB,2021-10-07 17:00:00.000,38
+46,Sooke Rd,West,Sooke River Rd,EW,WB,2021-10-07 17:00:00.000,1
+58,Galloping Goose ,East,Burnside Rd W,EW,WB,2021-10-07 17:00:00.000,53
+7,E&N Rail Trail,South,Portage Park Trail,NS,SB,2021-10-07 17:00:00.000,26
+24,Lochside Regional Trail,South,Ardwell Ave,NS,SB,2021-10-07 17:00:00.000,7
+31,Lochside Regional Trail,North,Switch Bridge,NS,SB,2021-10-07 17:00:00.000,91
+36,Shelbourne St,North,Pear St,NS,SB,2021-10-07 17:00:00.000,9
+45,University Dr,South,Ring Rd,NS,SB,2021-10-07 17:00:00.000,98
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,SB,2021-10-07 17:00:00.000,30
+12,Haultain St,West,Forbes St,EW,WB,2022-05-10 07:00:00.000,48
+18,Oak Bay Ave,East,Foul Bay Rd,EW,WB,2022-05-10 07:00:00.000,12
+20,Fort St,North,Oak Bay Ave,EW,WB,2022-05-10 07:00:00.000,35
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,WB,2022-05-10 07:00:00.000,1
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,WB,2022-05-10 07:00:00.000,13
+41,Craigflower Rd,East,Admirals Rd,EW,WB,2022-05-10 07:00:00.000,13
+43,Galloping Goose Regional Trail,South,E&N Rail Trail,EW,WB,2022-05-10 07:00:00.000,44
+51,Lansdowne Rd,West,Richmond Rd,EW,WB,2022-05-10 07:00:00.000,9
+6,Interuban Rd,North,Burnside Rd W,NS,SB,2022-05-10 07:00:00.000,23
+14,Vancouver St,South,Fort St,NS,SB,2022-05-10 07:00:00.000,42
+22,Lochside Dr,South,Royal Oak Dr,NS,SB,2022-05-10 07:00:00.000,33
+31,Lochside Regional Trail,North,Switch Bridge,NS,SB,2022-05-10 07:00:00.000,165
+45,University Dr,South,Ring Rd,NS,SB,2022-05-10 07:00:00.000,18
+48,Lochside Regional Trail ,South,Quadra St,NS,SB,2022-05-10 07:00:00.000,99
+12,Haultain St,West,Forbes St,EW,WB,2022-05-10 08:00:00.000,84
+18,Oak Bay Ave,East,Foul Bay Rd,EW,WB,2022-05-10 08:00:00.000,17
+20,Fort St,North,Oak Bay Ave,EW,WB,2022-05-10 08:00:00.000,45
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,WB,2022-05-10 08:00:00.000,1
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,WB,2022-05-10 08:00:00.000,9
+41,Craigflower Rd,East,Admirals Rd,EW,WB,2022-05-10 08:00:00.000,5
+43,Galloping Goose Regional Trail,South,E&N Rail Trail,EW,WB,2022-05-10 08:00:00.000,32
+51,Lansdowne Rd,West,Richmond Rd,EW,WB,2022-05-10 08:00:00.000,9
+6,Interuban Rd,North,Burnside Rd W,NS,SB,2022-05-10 08:00:00.000,26
+14,Vancouver St,South,Fort St,NS,SB,2022-05-10 08:00:00.000,70
+22,Lochside Dr,South,Royal Oak Dr,NS,SB,2022-05-10 08:00:00.000,26
+31,Lochside Regional Trail,North,Switch Bridge,NS,SB,2022-05-10 08:00:00.000,158
+45,University Dr,South,Ring Rd,NS,SB,2022-05-10 08:00:00.000,18
+48,Lochside Regional Trail ,South,Quadra St,NS,SB,2022-05-10 08:00:00.000,103
+12,Haultain St,West,Forbes St,EW,WB,2022-05-10 15:00:00.000,49
+18,Oak Bay Ave,East,Foul Bay Rd,EW,WB,2022-05-10 15:00:00.000,11
+20,Fort St,North,Oak Bay Ave,EW,WB,2022-05-10 15:00:00.000,47
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,WB,2022-05-10 15:00:00.000,4
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,WB,2022-05-10 15:00:00.000,13
+3,E&N Rail Trail,North,Esquimalt Rd,NS,SB,2022-05-10 15:00:00.000,53
+14,Vancouver St,South,Fort St,NS,SB,2022-05-10 15:00:00.000,55
+22,Lochside Dr,South,Royal Oak Dr,NS,SB,2022-05-10 15:00:00.000,37
+31,Lochside Regional Trail,North,Switch Bridge,NS,SB,2022-05-10 15:00:00.000,104
+45,University Dr,South,Ring Rd,NS,SB,2022-05-10 15:00:00.000,48
+48,Lochside Regional Trail ,South,Quadra St,NS,SB,2022-05-10 15:00:00.000,87
+12,Haultain St,West,Forbes St,EW,WB,2022-05-10 16:00:00.000,49
+18,Oak Bay Ave,East,Foul Bay Rd,EW,WB,2022-05-10 16:00:00.000,18
+20,Fort St,North,Oak Bay Ave,EW,WB,2022-05-10 16:00:00.000,54
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,WB,2022-05-10 16:00:00.000,4
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,WB,2022-05-10 16:00:00.000,23
+3,E&N Rail Trail,North,Esquimalt Rd,NS,SB,2022-05-10 16:00:00.000,52
+14,Vancouver St,South,Fort St,NS,SB,2022-05-10 16:00:00.000,74
+22,Lochside Dr,South,Royal Oak Dr,NS,SB,2022-05-10 16:00:00.000,46
+31,Lochside Regional Trail,North,Switch Bridge,NS,SB,2022-05-10 16:00:00.000,130
+45,University Dr,South,Ring Rd,NS,SB,2022-05-10 16:00:00.000,119
+48,Lochside Regional Trail ,South,Quadra St,NS,SB,2022-05-10 16:00:00.000,95
+12,Haultain St,West,Forbes St,EW,WB,2022-05-10 17:00:00.000,51
+18,Oak Bay Ave,East,Foul Bay Rd,EW,WB,2022-05-10 17:00:00.000,24
+20,Fort St,North,Oak Bay Ave,EW,WB,2022-05-10 17:00:00.000,40
+21,Galloping Goose Regional Trail,North,Sooke Rd,EW,WB,2022-05-10 17:00:00.000,0
+38,Goldstream Ave,West,Veterans Memorial Pky,EW,WB,2022-05-10 17:00:00.000,20
+3,E&N Rail Trail,North,Esquimalt Rd,NS,SB,2022-05-10 17:00:00.000,47
+14,Vancouver St,South,Fort St,NS,SB,2022-05-10 17:00:00.000,109
+22,Lochside Dr,South,Royal Oak Dr,NS,SB,2022-05-10 17:00:00.000,36
+31,Lochside Regional Trail,North,Switch Bridge,NS,SB,2022-05-10 17:00:00.000,106
+45,University Dr,South,Ring Rd,NS,SB,2022-05-10 17:00:00.000,66
+48,Lochside Regional Trail ,South,Quadra St,NS,SB,2022-05-10 17:00:00.000,68
+15,Humboldt St,East,Blanshard St,EW,WB,2022-05-11 07:00:00.000,37
+17,McKenzie Ave,East,Gordon Head Rd,EW,WB,2022-05-11 07:00:00.000,12
+27,Richardson St,East,Cook St,EW,WB,2022-05-11 07:00:00.000,34
+28,Pandora St,East,Blanshard St,EW,WB,2022-05-11 07:00:00.000,107
+3,E&N Rail Trail,North,Esquimalt Rd,NS,SB,2022-05-11 07:00:00.000,66
+5,Lochside Regional Trail,South,McKenzie Ave,NS,SB,2022-05-11 07:00:00.000,85
+11,Blanshard St,South,Bay St,NS,SB,2022-05-11 07:00:00.000,14
+13,Cook St,South,Fort St,NS,SB,2022-05-11 07:00:00.000,6
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,SB,2022-05-11 07:00:00.000,28
+24,Lochside Regional Trail,South,Ardwell Ave,NS,SB,2022-05-11 07:00:00.000,3
+33,Admirals Rd,South,Colville Rd,NS,SB,2022-05-11 07:00:00.000,29
+15,Humboldt St,East,Blanshard St,EW,WB,2022-05-11 08:00:00.000,45
+17,McKenzie Ave,East,Gordon Head Rd,EW,WB,2022-05-11 08:00:00.000,10
+27,Richardson St,East,Cook St,EW,WB,2022-05-11 08:00:00.000,70
+28,Pandora St,East,Blanshard St,EW,WB,2022-05-11 08:00:00.000,127
+3,E&N Rail Trail,North,Esquimalt Rd,NS,SB,2022-05-11 08:00:00.000,53
+5,Lochside Regional Trail,South,McKenzie Ave,NS,SB,2022-05-11 08:00:00.000,88
+11,Blanshard St,South,Bay St,NS,SB,2022-05-11 08:00:00.000,16
+13,Cook St,South,Fort St,NS,SB,2022-05-11 08:00:00.000,14
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,SB,2022-05-11 08:00:00.000,26
+24,Lochside Regional Trail,South,Ardwell Ave,NS,SB,2022-05-11 08:00:00.000,19
+33,Admirals Rd,South,Colville Rd,NS,SB,2022-05-11 08:00:00.000,34
+15,Humboldt St,East,Blanshard St,EW,WB,2022-05-11 15:00:00.000,13
+17,McKenzie Ave,East,Gordon Head Rd,EW,WB,2022-05-11 15:00:00.000,31
+28,Pandora St,East,Blanshard St,EW,WB,2022-05-11 15:00:00.000,74
+39,Wale Rd,West,Island Hwy,EW,WB,2022-05-11 15:00:00.000,14
+40,Esquimalt Rd,West,Lampson St,EW,WB,2022-05-11 15:00:00.000,18
+42,Sooke Rd,North,Otter Point Rd,EW,WB,2022-05-11 15:00:00.000,5
+43,Galloping Goose Regional Trail,South,E&N Rail Trail,EW,WB,2022-05-11 15:00:00.000,80
+5,Lochside Regional Trail,South,McKenzie Ave,NS,SB,2022-05-11 15:00:00.000,50
+11,Blanshard St,South,Bay St,NS,SB,2022-05-11 15:00:00.000,12
+13,Cook St,South,Fort St,NS,SB,2022-05-11 15:00:00.000,13
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,SB,2022-05-11 15:00:00.000,44
+24,Lochside Regional Trail,South,Ardwell Ave,NS,SB,2022-05-11 15:00:00.000,27
+33,Admirals Rd,South,Colville Rd,NS,SB,2022-05-11 15:00:00.000,18
+15,Humboldt St,East,Blanshard St,EW,WB,2022-05-11 16:00:00.000,29
+17,McKenzie Ave,East,Gordon Head Rd,EW,WB,2022-05-11 16:00:00.000,34
+28,Pandora St,East,Blanshard St,EW,WB,2022-05-11 16:00:00.000,117
+39,Wale Rd,West,Island Hwy,EW,WB,2022-05-11 16:00:00.000,18
+40,Esquimalt Rd,West,Lampson St,EW,WB,2022-05-11 16:00:00.000,23
+42,Sooke Rd,North,Otter Point Rd,EW,WB,2022-05-11 16:00:00.000,3
+43,Galloping Goose Regional Trail,South,E&N Rail Trail,EW,WB,2022-05-11 16:00:00.000,145
+5,Lochside Regional Trail,South,McKenzie Ave,NS,SB,2022-05-11 16:00:00.000,57
+11,Blanshard St,South,Bay St,NS,SB,2022-05-11 16:00:00.000,8
+13,Cook St,South,Fort St,NS,SB,2022-05-11 16:00:00.000,13
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,SB,2022-05-11 16:00:00.000,84
+24,Lochside Regional Trail,South,Ardwell Ave,NS,SB,2022-05-11 16:00:00.000,9
+33,Admirals Rd,South,Colville Rd,NS,SB,2022-05-11 16:00:00.000,14
+15,Humboldt St,East,Blanshard St,EW,WB,2022-05-11 17:00:00.000,13
+17,McKenzie Ave,East,Gordon Head Rd,EW,WB,2022-05-11 17:00:00.000,51
+28,Pandora St,East,Blanshard St,EW,WB,2022-05-11 17:00:00.000,89
+39,Wale Rd,West,Island Hwy,EW,WB,2022-05-11 17:00:00.000,11
+40,Esquimalt Rd,West,Lampson St,EW,WB,2022-05-11 17:00:00.000,22
+42,Sooke Rd,North,Otter Point Rd,EW,WB,2022-05-11 17:00:00.000,2
+43,Galloping Goose Regional Trail,South,E&N Rail Trail,EW,WB,2022-05-11 17:00:00.000,100
+5,Lochside Regional Trail,South,McKenzie Ave,NS,SB,2022-05-11 17:00:00.000,43
+11,Blanshard St,South,Bay St,NS,SB,2022-05-11 17:00:00.000,14
+13,Cook St,South,Fort St,NS,SB,2022-05-11 17:00:00.000,12
+16,Henderson Rd,South,Cedar Hill Cross Rd,NS,SB,2022-05-11 17:00:00.000,66
+24,Lochside Regional Trail,South,Ardwell Ave,NS,SB,2022-05-11 17:00:00.000,2
+33,Admirals Rd,South,Colville Rd,NS,SB,2022-05-11 17:00:00.000,11
+2,Johnson St Bridge,West,Wharf St,EW,WB,2022-05-12 07:00:00.000,123
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,WB,2022-05-12 07:00:00.000,42
+35,McKenzie Ave,East,Shelbourne St,EW,WB,2022-05-12 07:00:00.000,11
+40,Esquimalt Rd,West,Lampson St,EW,WB,2022-05-12 07:00:00.000,33
+57,Cadboro Bay Rd,East,Foul Bay Rd,EW,WB,2022-05-12 07:00:00.000,19
+7,E&N Rail Trail,South,Portage Park Trail,NS,SB,2022-05-12 07:00:00.000,133
+23,Fifth St,South,Ocean Ave,NS,SB,2022-05-12 07:00:00.000,1
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,SB,2022-05-12 07:00:00.000,34
+55,Vancouver St,South,Caledonia Ave,NS,SB,2022-05-12 07:00:00.000,55
+2,Johnson St Bridge,West,Wharf St,EW,WB,2022-05-12 08:00:00.000,96
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,WB,2022-05-12 08:00:00.000,34
+35,McKenzie Ave,East,Shelbourne St,EW,WB,2022-05-12 08:00:00.000,6
+40,Esquimalt Rd,West,Lampson St,EW,WB,2022-05-12 08:00:00.000,20
+57,Cadboro Bay Rd,East,Foul Bay Rd,EW,WB,2022-05-12 08:00:00.000,21
+7,E&N Rail Trail,South,Portage Park Trail,NS,SB,2022-05-12 08:00:00.000,46
+23,Fifth St,South,Ocean Ave,NS,SB,2022-05-12 08:00:00.000,1
+49,Lochside Regional Trail,North,Cedar Hill Cross Rd,NS,SB,2022-05-12 08:00:00.000,35
+55,Vancouver St,South,Caledonia Ave,NS,SB,2022-05-12 08:00:00.000,122
+2,Johnson St Bridge,West,Wharf St,EW,WB,2022-05-12 15:00:00.000,115
+27,Richardson St,East,Cook St,EW,WB,2022-05-12 15:00:00.000,10
+29,Johnson St,East,Blanshard St,EW,WB,2022-05-12 15:00:00.000,5
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,WB,2022-05-12 15:00:00.000,43
+35,McKenzie Ave,East,Shelbourne St,EW,WB,2022-05-12 15:00:00.000,17
+37,Gorge Rd,West,Jutland Rd,EW,WB,2022-05-12 15:00:00.000,9
+46,Sooke Rd,West,Sooke River Rd,EW,WB,2022-05-12 15:00:00.000,8
+57,Cadboro Bay Rd,East,Foul Bay Rd,EW,WB,2022-05-12 15:00:00.000,22
+4,Galloping Goose Regional Trail,South,Information Booth at Switch Bridge,NS,SB,2022-05-12 15:00:00.000,58
+7,E&N Rail Trail,South,Portage Park Trail,NS,SB,2022-05-12 15:00:00.000,14
+23,Fifth St,South,Ocean Ave,NS,SB,2022-05-12 15:00:00.000,0
+55,Vancouver St,South,Caledonia Ave,NS,SB,2022-05-12 15:00:00.000,48
+2,Johnson St Bridge,West,Wharf St,EW,WB,2022-05-12 16:00:00.000,285
+27,Richardson St,East,Cook St,EW,WB,2022-05-12 16:00:00.000,21
+29,Johnson St,East,Blanshard St,EW,WB,2022-05-12 16:00:00.000,13
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,WB,2022-05-12 16:00:00.000,74
+35,McKenzie Ave,East,Shelbourne St,EW,WB,2022-05-12 16:00:00.000,28
+37,Gorge Rd,West,Jutland Rd,EW,WB,2022-05-12 16:00:00.000,5
+46,Sooke Rd,West,Sooke River Rd,EW,WB,2022-05-12 16:00:00.000,2
+57,Cadboro Bay Rd,East,Foul Bay Rd,EW,WB,2022-05-12 16:00:00.000,10
+4,Galloping Goose Regional Trail,South,Information Booth at Switch Bridge,NS,SB,2022-05-12 16:00:00.000,63
+7,E&N Rail Trail,South,Portage Park Trail,NS,SB,2022-05-12 16:00:00.000,18
+23,Fifth St,South,Ocean Ave,NS,SB,2022-05-12 16:00:00.000,2
+55,Vancouver St,South,Caledonia Ave,NS,SB,2022-05-12 16:00:00.000,66
+2,Johnson St Bridge,West,Wharf St,EW,WB,2022-05-12 17:00:00.000,283
+27,Richardson St,East,Cook St,EW,WB,2022-05-12 17:00:00.000,18
+29,Johnson St,East,Blanshard St,EW,WB,2022-05-12 17:00:00.000,10
+32,Galloping Goose Regional Trail,North,Crease Rd,EW,WB,2022-05-12 17:00:00.000,83
+35,McKenzie Ave,East,Shelbourne St,EW,WB,2022-05-12 17:00:00.000,30
+37,Gorge Rd,West,Jutland Rd,EW,WB,2022-05-12 17:00:00.000,4
+46,Sooke Rd,West,Sooke River Rd,EW,WB,2022-05-12 17:00:00.000,1
+57,Cadboro Bay Rd,East,Foul Bay Rd,EW,WB,2022-05-12 17:00:00.000,15
+4,Galloping Goose Regional Trail,South,Information Booth at Switch Bridge,NS,SB,2022-05-12 17:00:00.000,33
+7,E&N Rail Trail,South,Portage Park Trail,NS,SB,2022-05-12 17:00:00.000,15
+23,Fifth St,South,Ocean Ave,NS,SB,2022-05-12 17:00:00.000,5
+55,Vancouver St,South,Caledonia Ave,NS,SB,2022-05-12 17:00:00.000,48
