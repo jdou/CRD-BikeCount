@@ -77,7 +77,7 @@ d3.json("/data/v1.0/"+document.querySelector('#title').dataset.countid, function
     d3.select("#title").append("h1")
   .html('Station #'+ hourData[0].countID+ ' '+  hourData[0].onStreet +' '+ locList[hourData[0].location] + 
     ' of ' + hourData[0].xStreet );
-    hourData=hourData.sort(function (a,b) {return d3.ascending(a.CountDate, b.CountDate) || d3.ascending(a.heading,b.heading) });
+    hourData=hourData.sort(function (a,b) {return d3.descending(a.CountDate, b.CountDate) || d3.ascending(a.heading,b.heading) });
     //Nest By heading
     hourly = d3.nest()
     .key(function(d) {return d.Year})
